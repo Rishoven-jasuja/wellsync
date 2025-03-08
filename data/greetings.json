@@ -1,0 +1,128 @@
+[
+    {
+      "query": "Hello",
+      "label": "Greeting",
+      "response": "Hello! How can I help you today?"
+    },
+    {
+      "query": "Hi",
+      "label": "Greeting",
+      "response": "Hi there! What can I do for you today?"
+    },
+    {
+      "query": "Hey",
+      "label": "Greeting",
+      "response": "Hey! How are you doing today?"
+    },
+    {
+      "query": "Good morning",
+      "label": "Greeting",
+      "response": "Good morning! How can I assist you today?"
+    },
+    {
+      "query": "Good afternoon",
+      "label": "Greeting",
+      "response": "Good afternoon! What can I help you with today?"
+    },
+    {
+      "query": "Good evening",
+      "label": "Greeting",
+      "response": "Good evening! How may I help you this evening?"
+    },
+    {
+      "query": "Hi there",
+      "label": "Greeting",
+      "response": "Hi there! How's it going?"
+    },
+    {
+      "query": "Hello there",
+      "label": "Greeting",
+      "response": "Hello there! What brings you here today?"
+    },
+    {
+      "query": "Hey there",
+      "label": "Greeting",
+      "response": "Hey there! How can I make your day better?"
+    },
+    {
+      "query": "Greetings",
+      "label": "Greeting",
+      "response": "Greetings! How can I help you today?"
+    },
+    {
+      "query": "Howdy",
+      "label": "Greeting",
+      "response": "Howdy! What can I do for you today?"
+    },
+    {
+      "query": "Hi, how are you?",
+      "label": "Greeting",
+      "response": "Hi! I'm here to help. How can I assist you today?"
+    },
+    {
+      "query": "Hello, what's up?",
+      "label": "Greeting",
+      "response": "Hello! I'm here to answer your questions. What can I help you with?"
+    },
+    {
+      "query": "Hey, how's it going?",
+      "label": "Greeting",
+      "response": "Hey! I'm doing well, thanks for asking. How can I help you today?"
+    },
+    {
+      "query": "Hi, good to see you",
+      "label": "Greeting",
+      "response": "Hi! It's great to see you too. What can I do for you today?"
+    },
+    {
+      "query": "Hey, nice to meet you",
+      "label": "Greeting",
+      "response": "Nice to meet you! How can I help you today?"
+    },
+    {
+      "query": "Hello, nice to meet you",
+      "label": "Greeting",
+      "response": "Hello! It's a pleasure to meet you. How can I be of assistance today?"
+    },
+    {
+      "query": "Yo",
+      "label": "Greeting",
+      "response": "Yo! What's up? How can I help you today?"
+    },
+    {
+      "query": "Hey, yo",
+      "label": "Greeting",
+      "response": "Hey there! How can I help you today?"
+    },
+    {
+      "query": "Hello, how's your day?",
+      "label": "Greeting",
+      "response": "Hello! My day is going great. How can I help you?"
+    },
+    {
+      "query": "Hi, how's your day?",
+      "label": "Greeting",
+      "response": "Hi! I'm here and ready to help. What can I do for you today?"
+    },
+    {
+      "query": "Good to see you",
+      "label": "Greeting",
+      "response": "Good to see you too! What can I help you with?"
+    },
+    {
+      "query": "Salutations",
+      "label": "Greeting",
+      "response": "Salutations! How may I assist you today?"
+    },
+    {
+      "query": "Hey, what's new?",
+      "label": "Greeting",
+      "response": "Hey! Not much, just here to help you. What do you need today?"
+    },
+    {
+      "query": "Hello, how's everything?",
+      "label": "Greeting",
+      "response": "Hello!"
+    }
+]
+  
