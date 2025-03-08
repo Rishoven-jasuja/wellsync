@@ -1,0 +1,16 @@
+{
+    "user1": [
+        {
+            "message": "I am dealing with stress",
+            "response": "I'm sorry you're feeling stressed. Would you like some tips to manage it?"
+        },
+        {
+            "message": "Tell me ways to handle it",
+            "response": "Here are some ways to handle stress: exercise, meditation, and deep breathing."
+        },
+        {
+            "message": "Give me more tips",
+            "response": "I'm here to help. Can you provide more details?"
+        }
+    ]
+}
