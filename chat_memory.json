@@ -1,16 +1,103 @@
 {
-    "user1": [
-        {
-            "message": "I am dealing with stress",
-            "response": "I'm sorry you're feeling stressed. Would you like some tips to manage it?"
-        },
-        {
-            "message": "Tell me ways to handle it",
-            "response": "Here are some ways to handle stress: exercise, meditation, and deep breathing."
-        },
-        {
-            "message": "Give me more tips",
-            "response": "I'm here to help. Can you provide more details?"
-        }
-    ]
+    "user1": {
+        "messages": [
+            {
+                "message": "I am feeling really stressed",
+                "response": "Here are some ways to manage stress: meditation, exercise, deep breathing, and journaling."
+            },
+            {
+                "message": "Tell me more",
+                "response": "You can also try yoga, avoiding caffeine, and maintaining a good sleep routine."
+            },
+            {
+                "message": "I need motivation",
+                "response": "Staying motivated is tough! Try setting small goals, rewarding yourself, and surrounding yourself with positive influences."
+            },
+            {
+                "message": "Go on",
+                "response": "Another tip: Break big goals into smaller, manageable tasks so you don't feel overwhelmed."
+            },
+            {
+                "message": "How to deal with anxiety?",
+                "response": "If you're feeling anxious, deep breathing, mindfulness, and talking to a friend can help."
+            },
+            {
+                "message": "Give me more",
+                "response": "Try writing down your thoughts and practicing gratitude to reduce anxiety."
+            },
+            {
+                "message": "hii",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "i am feeling stressed",
+                "response": "Here are some ways to manage stress: meditation, exercise, deep breathing, and journaling."
+            },
+            {
+                "message": "tell me more",
+                "response": "You can also try yoga, avoiding caffeine, and maintaining a good sleep routine."
+            },
+            {
+                "message": "i need motivation",
+                "response": "Staying motivated is tough! Try setting small goals, rewarding yourself, and surrounding yourself with positive influences."
+            },
+            {
+                "message": "go on",
+                "response": "Another tip: Break big goals into smaller, manageable tasks so you don't feel overwhelmed."
+            },
+            {
+                "message": "hii",
+                "response": "I didn't quite get that. Can you rephrase?"
+            },
+            {
+                "message": "i am feeling stressed",
+                "response": "Try taking short breaks, getting enough sleep, and staying physically active to reduce stress."
+            },
+            {
+                "message": "tell me more",
+                "response": "You can also try yoga, avoiding caffeine, and maintaining a good sleep routine."
+            },
+            {
+                "message": "how to deal with it",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "motivate me",
+                "response": "Break big goals into smaller tasks and celebrate small wins to stay motivated!"
+            },
+            {
+                "message": "",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "motivate me",
+                "response": "Staying motivated is tough! Try setting small goals, rewarding yourself, and surrounding yourself with positive influences."
+            },
+            {
+                "message": "go on",
+                "response": "Another tip: Break big goals into smaller, manageable tasks so you don't feel overwhelmed."
+            },
+            {
+                "message": "python -u \"c:\\chatbot\\main\\main.py\"",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "hii",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "i am feeling stressed",
+                "response": "Here are some ways to manage stress: meditation, exercise, deep breathing, and journaling."
+            },
+            {
+                "message": "tell mo more",
+                "response": "I'm here to help! Can you provide more details?"
+            },
+            {
+                "message": "go on",
+                "response": "Can you clarify what you want more details on?"
+            }
+        ],
+        "last_intent": "follow_up"
+    }
 }
