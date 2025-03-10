@@ -1,120 +1,122 @@
-import os
-import json
+import os   #working
 import faiss
+import json
 import numpy as np
+import random
+import re
 from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
 
-# **Step 1: Load Sentence Transformer Model**
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# Load Sentence Transformer model
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-# **Step 2: Load & Process JSON Data**
-def load_all_json_files(folder_path):
+# Function to load dataset from multiple JSON files
+def load_dataset(data_folder="data"):
     dataset = []
-    for filename in os.listdir(folder_path):
-        if filename.endswith('.json'):
-            filepath = os.path.join(folder_path, filename)
-            with open(filepath, 'r') as f:
-                try:
-                    data = json.load(f)
-                    if isinstance(data, list):
-                        dataset.extend(data)
-                except json.JSONDecodeError as e:
-                    print(f"Error loading {filename}: {e}")
-    return dataset
-
-data_folder = 'data'
-data = load_all_json_files(data_folder)
-
-# **Step 3: Compute FAISS Embeddings**
-def compute_embeddings(data, model):
-    queries = [item['query'] for item in data]
-    embeddings = model.encode(queries, convert_to_tensor=False)
-    return np.array(embeddings)
-
-embeddings = compute_embeddings(data, model)
-
-# **Step 4: Build FAISS Index**
-d = embeddings.shape[1]  
-index = faiss.IndexFlatL2(d)
-index.add(embeddings)
-
-# **Step 5: Intent Detection for Mental Wellness**
-intents = {
-    "greeting": "Hello, hi, hey",
-    "emergency": "I feel suicidal, I want to hurt myself, I need urgent help",
-    "self-care": "I need relaxation, I want meditation, suggest breathing exercises",
-    "exit": "Bye, goodnight, exit, quit"
-}
-intent_embeddings = {key: model.encode(value) for key, value in intents.items()}
-
-def detect_intent(user_message):
-    new_embedding = model.encode(user_message)
-    similarities = {key: cosine_similarity([new_embedding], [intent_embeddings[key]])[0][0] for key in intents}
-    return max(similarities, key=similarities.get)
-
-# **Step 6: Conversation Memory (Last 5 Messages)**
-chat_history = []
-
-def update_chat_history(user_message, bot_response):
-    chat_history.append(("User", user_message))
-    chat_history.append(("Bot", bot_response))
-    chat_history[:] = chat_history[-5:]
-
-def find_similar_message(user_message):
-    if not chat_history:
-        return None
-    new_embedding = model.encode(user_message)
-    previous_embeddings = [model.encode(msg[1]) for msg in chat_history]
-    similarities = cosine_similarity([new_embedding], previous_embeddings)[0]
-    max_sim_index = np.argmax(similarities)
-    return chat_history[max_sim_index][1] if similarities[max_sim_index] > 0.7 else None
-
-# **Step 7: Generate Response**
-def get_response(user_query):
-    user_embedding = model.encode([user_query], convert_to_tensor=False)
-    user_embedding = np.array(user_embedding)
-    D, I = index.search(user_embedding, k=1)
+    intents = {}  # Dictionary to store intents
     
-    best_match_index = I[0][0]
-    best_match = data[best_match_index]
-    best_match_score = D[0][0]
+    if not os.path.exists(data_folder):
+        print(f"Warning: Folder '{data_folder}' not found. Make sure it exists.")
+        return dataset, intents
 
-    detected_intent = detect_intent(user_query)
-    intent_responses = {
-        "greeting": "Hello! How are you feeling today?",
-        "emergency": "I'm really sorry you're feeling this way. Please reach out to a friend, family member, or helpline.",
-        "self-care": "Taking care of yourself is important. Would you like some meditation or breathing exercises?",
-        "exit": "Okay, take care! Remember, you are not alone."
-    }
+    for file in os.listdir(data_folder):
+        if file.endswith(".json"):
+            file_path = os.path.join(data_folder, file)
+            with open(file_path, "r", encoding="utf-8") as f:
+                try:
+                    entries = json.load(f)
+                    dataset.extend(entries)  # Merge all questions into one list
+                    
+                    # Store intent for each question (fixing the error)
+                    for entry in entries:
+                        intents[entry["question"]] = entry.get("intent", "unknown")  # Assign 'unknown' if missing
+                except json.JSONDecodeError:
+                    print(f"Error: Could not parse {file_path}. Skipping.")
+    
+    return dataset, intents
 
-    # **Check Similar Message in Chat History**
-    similar_message = find_similar_message(user_query)
-    if similar_message:
-        return f"We discussed this earlier: {similar_message}"
+# Load dataset and intents
+data, intents = load_dataset()
 
-    # **Check FAISS Response**
-    if best_match_score < 5.0:
-        return best_match['response']
+# Create FAISS index
+dimension = 384  # Embedding size for MiniLM
+index = faiss.IndexFlatL2(dimension)
 
-    # **Check Intent-Based Response**
-    if detected_intent in intent_responses:
-        return intent_responses[detected_intent]
+# Encode questions & add to FAISS
+question_embeddings = []
+questions = []  # Store questions separately for indexing
 
-    return "I understand. Can you tell me more about how you're feeling?"
+for entry in data:
+    embedding = model.encode([entry["question"]])[0]  # Get embedding
+    question_embeddings.append(embedding)
+    questions.append(entry["question"])  # Store original question
 
-# **Step 8: Run Chatbot**
+question_embeddings = np.array(question_embeddings).astype("float32")
+index.add(question_embeddings)  # Add all embeddings to FAISS
+
+# Conversation memory (stores last 5 messages)
+conversation_memory = []
+last_topic = None  # Track the last recognized topic
+
+# Preprocessing function
+def preprocess(text):
+    text = text.lower().strip()
+    text = re.sub(r"[^a-zA-Z0-9\s]", "", text)  # Remove special characters
+    return text
+
+# Retrieve response from FAISS
+def get_response(user_input):
+    query_embedding = model.encode([user_input]).astype("float32")
+    _, top_match = index.search(query_embedding, 1)  # Get best match index
+    match_index = top_match[0][0]
+
+    if match_index != -1:
+        response_list = data[match_index]["response"]
+        return random.choice(response_list), questions[match_index]  # Return response & matched question
+    else:
+        return None, None  # No match found
+
+# Infer context from conversation memory
+def infer_context(user_input):
+    global last_topic
+    if last_topic:
+        user_input = last_topic + " " + user_input  # Append last topic to new query
+    return user_input
+
+# Chatbot function
 def chatbot():
-    print("Mental Wellness Chatbot is Ready! Type your message (or type 'exit' to quit).")
+    global last_topic
+    print("Chatbot: Hi! How can I help you today? (Type 'exit' to quit)")
+
     while True:
-        user_input = input("You: ")
-        if user_input.lower() in ["exit", "bye"]:
-            print("Bot: Okay, take care! Remember, you are not alone.")
+        user_input = input("You: ").strip()
+
+        if user_input.lower() == "exit":
+            print("Chatbot: Take care! Have a great day.")
             break
 
-        response = get_response(user_input)
-        print("Chatbot:", response)
-        update_chat_history(user_input, response)
+        # Preprocess user input
+        user_input = preprocess(user_input)
 
-if __name__ == '__main__':
+        # Check if input is vague
+        if len(user_input.split()) < 4:  # Example: "what can be its cause?"
+            user_input = infer_context(user_input)  # Add context
+
+        # Retrieve response
+        response, matched_question = get_response(user_input)
+
+        # If FAISS couldn't find a match, use fallback response
+        if response is None:
+            response = "I'm not sure. Can you clarify what you're asking about?"
+        else:
+            last_topic = matched_question  # Store matched question as last topic
+
+        # Store conversation memory (limit to last 5 interactions)
+        conversation_memory.append({"user": user_input, "bot": response})
+        if len(conversation_memory) > 5:
+            conversation_memory.pop(0)
+
+        print(f"Chatbot: {response}")
+
+# Run chatbot
+if __name__ == "__main__":
     chatbot()

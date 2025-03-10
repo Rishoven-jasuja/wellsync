@@ -1,128 +1,202 @@
 [
-    {
-      "query": "Hello",
-      "label": "Greeting",
-      "response": "Hello! How can I help you today?"
-    },
-    {
-      "query": "Hi",
-      "label": "Greeting",
-      "response": "Hi there! What can I do for you today?"
-    },
-    {
-      "query": "Hey",
-      "label": "Greeting",
-      "response": "Hey! How are you doing today?"
-    },
-    {
-      "query": "Good morning",
-      "label": "Greeting",
-      "response": "Good morning! How can I assist you today?"
-    },
-    {
-      "query": "Good afternoon",
-      "label": "Greeting",
-      "response": "Good afternoon! What can I help you with today?"
-    },
-    {
-      "query": "Good evening",
-      "label": "Greeting",
-      "response": "Good evening! How may I help you this evening?"
-    },
-    {
-      "query": "Hi there",
-      "label": "Greeting",
-      "response": "Hi there! How's it going?"
-    },
-    {
-      "query": "Hello there",
-      "label": "Greeting",
-      "response": "Hello there! What brings you here today?"
-    },
-    {
-      "query": "Hey there",
-      "label": "Greeting",
-      "response": "Hey there! How can I make your day better?"
-    },
-    {
-      "query": "Greetings",
-      "label": "Greeting",
-      "response": "Greetings! How can I help you today?"
-    },
-    {
-      "query": "Howdy",
-      "label": "Greeting",
-      "response": "Howdy! What can I do for you today?"
-    },
-    {
-      "query": "Hi, how are you?",
-      "label": "Greeting",
-      "response": "Hi! I'm here to help. How can I assist you today?"
-    },
-    {
-      "query": "Hello, what's up?",
-      "label": "Greeting",
-      "response": "Hello! I'm here to answer your questions. What can I help you with?"
-    },
-    {
-      "query": "Hey, how's it going?",
-      "label": "Greeting",
-      "response": "Hey! I'm doing well, thanks for asking. How can I help you today?"
-    },
-    {
-      "query": "Hi, good to see you",
-      "label": "Greeting",
-      "response": "Hi! It's great to see you too. What can I do for you today?"
-    },
-    {
-      "query": "Hey, nice to meet you",
-      "label": "Greeting",
-      "response": "Nice to meet you! How can I help you today?"
-    },
-    {
-      "query": "Hello, nice to meet you",
-      "label": "Greeting",
-      "response": "Hello! It's a pleasure to meet you. How can I be of assistance today?"
-    },
-    {
-      "query": "Yo",
-      "label": "Greeting",
-      "response": "Yo! What's up? How can I help you today?"
-    },
-    {
-      "query": "Hey, yo",
-      "label": "Greeting",
-      "response": "Hey there! How can I help you today?"
-    },
-    {
-      "query": "Hello, how's your day?",
-      "label": "Greeting",
-      "response": "Hello! My day is going great. How can I help you?"
-    },
-    {
-      "query": "Hi, how's your day?",
-      "label": "Greeting",
-      "response": "Hi! I'm here and ready to help. What can I do for you today?"
-    },
-    {
-      "query": "Good to see you",
-      "label": "Greeting",
-      "response": "Good to see you too! What can I help you with?"
-    },
-    {
-      "query": "Salutations",
-      "label": "Greeting",
-      "response": "Salutations! How may I assist you today?"
-    },
-    {
-      "query": "Hey, what's new?",
-      "label": "Greeting",
-      "response": "Hey! Not much, just here to help you. What do you need today?"
-    },
-    {
-      "query": "Hello, how's everything?",
-      "label": "Greeting",
-      "response": "Hello!"
-    }
+  {
+    "question": "hello",
+    "response": [
+      "Hi there! How can I assist you today?",
+      "Hello! What can I do for you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "hi",
+    "response": [
+      "Hey! How can I help you?",
+      "Hi! What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "hey",
+    "response": [
+      "Hey there! How can I assist you?",
+      "Hey! What can I do for you today?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "good morning",
+    "response": [
+      "Good morning! How are you doing today?",
+      "Morning! What can I help you with?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "good afternoon",
+    "response": [
+      "Good afternoon! What can I do for you?",
+      "Afternoon! How can I assist you?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "good evening",
+    "response": [
+      "Good evening! How can I help you?",
+      "Evening! What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "how are you?",
+    "response": [
+      "I’m just a bot, but I’m here to help you! How can I assist you today?",
+      "I’m doing great, thanks for asking! How about you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "what’s up?",
+    "response": [
+      "Not much, just here to help you! What’s up with you?",
+      "Hey! Just waiting to assist you. What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "yo",
+    "response": [
+      "Yo! What’s going on?",
+      "Hey! What can I do for you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "slang"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "howdy",
+    "response": [
+      "Howdy! How can I help you today?",
+      "Hey there! What can I do for you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "greetings",
+    "response": [
+      "Greetings! How can I assist you?",
+      "Hello! What can I do for you today?"
+    ],
+    "category": "greeting",
+    "tags": ["formal", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "sup",
+    "response": [
+      "Not much, just here to help! What’s up with you?",
+      "Hey! What’s going on?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "slang"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "hello there",
+    "response": [
+      "Hello there! How can I assist you today?",
+      "Hi! What can I do for you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "hiya",
+    "response": [
+      "Hiya! How can I help you?",
+      "Hey! What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "good day",
+    "response": [
+      "Good day to you! How can I assist you?",
+      "Hello! What can I do for you today?"
+    ],
+    "category": "greeting",
+    "tags": ["formal", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "morning",
+    "response": [
+      "Morning! How can I help you today?",
+      "Good morning! What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "afternoon",
+    "response": [
+      "Afternoon! How can I assist you?",
+      "Good afternoon! What can I do for you?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "evening",
+    "response": [
+      "Evening! How can I help you?",
+      "Good evening! What’s on your mind?"
+    ],
+    "category": "greeting",
+    "tags": ["time-based", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "how’s it going?",
+    "response": [
+      "It’s going well! How can I assist you today?",
+      "All good here! What’s up with you?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "how have you been?",
+    "response": [
+      "I’m just a bot, but I’m here to help you! How about you?",
+      "I’ve been great! How have you been?"
+    ],
+    "category": "greeting",
+    "tags": ["casual", "friendly"],
+    "sentiment": "positive"
+  }
 ]
-  
