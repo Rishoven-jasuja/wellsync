@@ -1,0 +1,4191 @@
+[
+  {
+    "question": "What are sleep issues in the context of mental wellness?",
+    "response": [
+      "Sleep issues are problems with sleep that can negatively impact your mental health, such as difficulty falling asleep or staying asleep.",
+      "Poor sleep can worsen stress, anxiety, and depression, creating a cycle that affects overall well-being."
+    ],
+    "category": "sleep issues",
+    "tags": ["definition", "mental wellness"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do sleep issues affect mental health?",
+    "response": [
+      "Lack of sleep can increase feelings of anxiety, depression, and irritability.",
+      "It can also make it harder to focus, manage stress, and maintain emotional balance."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "impact"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can anxiety cause sleep problems?",
+    "response": [
+      "Yes, anxiety often leads to racing thoughts, making it hard to fall or stay asleep.",
+      "This can create a cycle where poor sleep worsens anxiety, and anxiety further disrupts sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "causes"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I improve my sleep to support my mental wellness?",
+    "response": [
+      "Practice good sleep hygiene by maintaining a consistent sleep schedule and creating a calming bedtime routine.",
+      "Avoid screens before bed, limit caffeine, and try relaxation techniques like deep breathing or meditation."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What relaxation techniques can help me sleep better?",
+    "response": [
+      "Try mindfulness meditation, progressive muscle relaxation, or guided imagery to calm your mind before bed.",
+      "Listening to soothing music or practicing deep breathing can also help you relax and fall asleep faster."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does stress impact sleep and mental wellness?",
+    "response": [
+      "Stress can make it harder to fall asleep and stay asleep, leading to fatigue and irritability.",
+      "Over time, poor sleep due to stress can worsen mental health, creating a cycle that’s hard to break."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "mental wellness"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the connection between depression and sleep issues?",
+    "response": [
+      "Depression often leads to sleep problems like insomnia or oversleeping.",
+      "Poor sleep can also worsen depressive symptoms, making it important to address both issues together."
+    ],
+    "category": "sleep issues",
+    "tags": ["depression", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can improving my sleep help with my mental health?",
+    "response": [
+      "Yes, better sleep can improve mood, reduce anxiety, and help you manage stress more effectively.",
+      "Prioritizing sleep is a key part of maintaining good mental wellness."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental wellness", "self-help"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What should I do if I can’t sleep due to overthinking?",
+    "response": [
+      "Try journaling your thoughts before bed to clear your mind.",
+      "You can also practice mindfulness or focus on your breathing to redirect your thoughts and relax."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "overthinking"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How can I create a bedtime routine to support mental wellness?",
+    "response": [
+      "Set a consistent bedtime, avoid screens an hour before bed, and engage in calming activities like reading or meditation.",
+      "A relaxing routine signals to your brain that it’s time to wind down and prepare for sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why is sleep important for mental health?",
+    "response": [
+      "Sleep helps your brain process emotions, consolidate memories, and recharge for the next day.",
+      "Poor sleep can lead to mood swings, increased stress, and difficulty managing emotions."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "importance"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How many hours of sleep do I need for good mental health?",
+    "response": [
+      "Most adults need 7-9 hours of sleep per night for optimal mental and physical health.",
+      "Teens and children may need more, depending on their age."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "sleep duration"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is sleep hygiene?",
+    "response": [
+      "Sleep hygiene refers to habits and practices that promote good sleep quality.",
+      "Examples include a consistent sleep schedule, a comfortable sleep environment, and avoiding screens before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["definition", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can lack of sleep cause anxiety?",
+    "response": [
+      "Yes, poor sleep can increase anxiety levels and make it harder to cope with stress.",
+      "It can also lead to overthinking and heightened emotional responses."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "causes"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop overthinking at night?",
+    "response": [
+      "Try writing down your thoughts in a journal before bed to clear your mind.",
+      "Practicing mindfulness or focusing on your breathing can also help calm racing thoughts."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "overthinking"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What foods can help me sleep better?",
+    "response": [
+      "Foods like bananas, almonds, and warm milk contain nutrients that promote relaxation and sleep.",
+      "Avoid heavy or spicy meals close to bedtime, as they can disrupt sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "sleep hygiene"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can exercise improve my sleep and mental health?",
+    "response": [
+      "Yes, regular exercise can help you fall asleep faster and improve sleep quality.",
+      "It also reduces stress and anxiety, boosting overall mental wellness."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "mental health"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the best time to go to bed for mental wellness?",
+    "response": [
+      "The best bedtime depends on your schedule, but aim for 7-9 hours of sleep before you need to wake up.",
+      "Consistency is key—try to go to bed and wake up at the same time every day."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep hygiene", "mental wellness"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I create a calming sleep environment?",
+    "response": [
+      "Keep your bedroom dark, quiet, and cool for optimal sleep conditions.",
+      "Use comfortable bedding and remove distractions like electronics."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep environment", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can meditation help me sleep better?",
+    "response": [
+      "Yes, meditation can calm your mind and reduce stress, making it easier to fall asleep.",
+      "Try guided sleep meditations or mindfulness practices before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["meditation", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the link between sleep and depression?",
+    "response": [
+      "Poor sleep can worsen depression, and depression can lead to sleep problems like insomnia or oversleeping.",
+      "Addressing sleep issues is an important part of managing depression."
+    ],
+    "category": "sleep issues",
+    "tags": ["depression", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I wake up feeling refreshed?",
+    "response": [
+      "Stick to a consistent sleep schedule and avoid snoozing your alarm.",
+      "Expose yourself to natural light in the morning to help regulate your sleep-wake cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can napping during the day affect my sleep?",
+    "response": [
+      "Long or late naps can interfere with nighttime sleep, making it harder to fall asleep.",
+      "If you need to nap, keep it short (20-30 minutes) and earlier in the day."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is circadian rhythm, and how does it affect sleep?",
+    "response": [
+      "Your circadian rhythm is your body’s internal clock that regulates sleep and wake cycles.",
+      "Disruptions to this rhythm, like irregular sleep schedules, can lead to sleep problems."
+    ],
+    "category": "sleep issues",
+    "tags": ["circadian rhythm", "sleep science"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I reset my sleep schedule?",
+    "response": [
+      "Gradually adjust your bedtime and wake-up time by 15-30 minutes each day.",
+      "Avoid screens before bed and expose yourself to natural light in the morning."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep schedule", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can caffeine affect my sleep and mental health?",
+    "response": [
+      "Yes, caffeine can stay in your system for hours and make it harder to fall asleep.",
+      "Limit caffeine intake, especially in the afternoon and evening, to protect your sleep and mental wellness."
+    ],
+    "category": "sleep issues",
+    "tags": ["caffeine", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is sleep deprivation, and how does it affect mental health?",
+    "response": [
+      "Sleep deprivation occurs when you don’t get enough sleep, leading to fatigue and irritability.",
+      "It can worsen anxiety, depression, and your ability to handle stress."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep deprivation", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I manage nightmares that disrupt my sleep?",
+    "response": [
+      "Practice relaxation techniques before bed to reduce stress and anxiety.",
+      "If nightmares persist, consider talking to a therapist to address underlying causes."
+    ],
+    "category": "sleep issues",
+    "tags": ["nightmares", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can alcohol help me sleep better?",
+    "response": [
+      "While alcohol may make you feel sleepy, it disrupts sleep quality and can lead to waking up at night.",
+      "Avoid alcohol close to bedtime for better sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["alcohol", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the role of melatonin in sleep?",
+    "response": [
+      "Melatonin is a hormone that helps regulate your sleep-wake cycle.",
+      "It’s naturally produced in the body but can also be taken as a supplement to improve sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["melatonin", "sleep science"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop waking up in the middle of the night?",
+    "response": [
+      "Avoid caffeine and alcohol, and try relaxation techniques like deep breathing before bed.",
+      "If you wake up, avoid looking at the clock and focus on calming your mind."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "sleep hygiene"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a weighted blanket help with sleep issues?",
+    "response": [
+      "Yes, weighted blankets can provide a calming effect and help reduce anxiety, improving sleep quality.",
+      "They work by applying gentle pressure, which can promote relaxation."
+    ],
+    "category": "sleep issues",
+    "tags": ["weighted blanket", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the connection between sleep and stress?",
+    "response": [
+      "Stress can make it harder to fall asleep, and poor sleep can increase stress levels.",
+      "Managing stress through relaxation techniques can improve sleep and overall mental wellness."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling tired during the day?",
+    "response": [
+      "Prioritize getting 7-9 hours of sleep each night and maintain a consistent sleep schedule.",
+      "Avoid heavy meals and caffeine late in the day, and take short breaks to recharge."
+    ],
+    "category": "sleep issues",
+    "tags": ["fatigue", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues be a sign of a mental health disorder?",
+    "response": [
+      "Yes, sleep problems like insomnia or oversleeping can be symptoms of anxiety, depression, or other mental health conditions.",
+      "If sleep issues persist, consider seeking professional help."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "symptoms"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I relax my mind before bed?",
+    "response": [
+      "Try reading a book, listening to calming music, or practicing mindfulness meditation.",
+      "Avoid stimulating activities like work or screen time before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["relaxation", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the best position for sleeping?",
+    "response": [
+      "Sleeping on your back or side is generally recommended for better spinal alignment and breathing.",
+      "Avoid sleeping on your stomach, as it can strain your neck and back."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep position", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can sleep issues affect my concentration?",
+    "response": [
+      "Yes, poor sleep can make it harder to focus, remember things, and make decisions.",
+      "Improving sleep quality can enhance your cognitive function and productivity."
+    ],
+    "category": "sleep issues",
+    "tags": ["concentration", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling groggy in the morning?",
+    "response": [
+      "Avoid hitting the snooze button and expose yourself to natural light as soon as you wake up.",
+      "Stick to a consistent sleep schedule and avoid heavy meals or alcohol before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["grogginess", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my mood?",
+    "response": [
+      "Yes, poor sleep can lead to irritability, mood swings, and difficulty managing emotions.",
+      "Improving sleep quality can help stabilize your mood and improve mental wellness."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I manage sleep issues caused by shift work?",
+    "response": [
+      "Try to maintain a consistent sleep schedule, even on days off, and create a dark, quiet sleep environment.",
+      "Use blackout curtains and avoid caffeine before bedtime to improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["shift work", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my immune system?",
+    "response": [
+      "Yes, poor sleep can weaken your immune system, making you more susceptible to illnesses.",
+      "Prioritizing sleep is important for both physical and mental health."
+    ],
+    "category": "sleep issues",
+    "tags": ["immune system", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling anxious about not being able to sleep?",
+    "response": [
+      "Focus on relaxation techniques like deep breathing or progressive muscle relaxation.",
+      "Remind yourself that rest is still beneficial, even if you’re not fully asleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my relationships?",
+    "response": [
+      "Yes, poor sleep can lead to irritability and difficulty communicating, which can strain relationships.",
+      "Improving sleep quality can help you feel more patient and emotionally balanced."
+    ],
+    "category": "sleep issues",
+    "tags": ["relationships", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop snoring to improve my sleep?",
+    "response": [
+      "Try sleeping on your side, avoiding alcohol before bed, and maintaining a healthy weight.",
+      "If snoring persists, consult a doctor to rule out sleep apnea."
+    ],
+    "category": "sleep issues",
+    "tags": ["snoring", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my appetite?",
+    "response": [
+      "Yes, poor sleep can disrupt hormones that regulate hunger, leading to increased appetite and cravings.",
+      "This can contribute to weight gain and affect overall health."
+    ],
+    "category": "sleep issues",
+    "tags": ["appetite", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling restless at night?",
+    "response": [
+      "Try relaxation techniques like deep breathing, meditation, or gentle stretching before bed.",
+      "Avoid caffeine and heavy meals close to bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["restlessness", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my memory?",
+    "response": [
+      "Yes, poor sleep can impair your ability to form and retain memories.",
+      "Improving sleep quality can enhance cognitive function and memory."
+    ],
+    "category": "sleep issues",
+    "tags": ["memory", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling overwhelmed by my sleep issues?",
+    "response": [
+      "Break the problem into smaller steps, like improving sleep hygiene or trying relaxation techniques.",
+      "Consider seeking support from a therapist or sleep specialist if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["overwhelm", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my productivity?",
+    "response": [
+      "Yes, poor sleep can reduce focus, creativity, and efficiency at work or school.",
+      "Prioritizing sleep can help you perform better and feel more energized."
+    ],
+    "category": "sleep issues",
+    "tags": ["productivity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling guilty about needing more sleep?",
+    "response": [
+      "Remember that sleep is essential for your mental and physical health, not a luxury.",
+      "Prioritizing sleep is an act of self-care and helps you function at your best."
+    ],
+    "category": "sleep issues",
+    "tags": ["guilt", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my decision-making?",
+    "response": [
+      "Yes, poor sleep can impair judgment and make it harder to make clear decisions.",
+      "Improving sleep quality can help you think more clearly and make better choices."
+    ],
+    "category": "sleep issues",
+    "tags": ["decision-making", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like I’m not getting enough sleep?",
+    "response": [
+      "Focus on quality over quantity—improving sleep hygiene can make your sleep more restful.",
+      "If you’re still struggling, consider tracking your sleep patterns or consulting a professional."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep quality", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my creativity?",
+    "response": [
+      "Yes, poor sleep can reduce your ability to think creatively and solve problems.",
+      "Improving sleep quality can help you feel more inspired and innovative."
+    ],
+    "category": "sleep issues",
+    "tags": ["creativity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are out of control?",
+    "response": [
+      "Start with small changes, like setting a consistent bedtime or creating a relaxing bedtime routine.",
+      "If needed, seek support from a therapist or sleep specialist to develop a plan."
+    ],
+    "category": "sleep issues",
+    "tags": ["control", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my self-esteem?",
+    "response": [
+      "Yes, poor sleep can lead to fatigue and irritability, which can affect how you feel about yourself.",
+      "Improving sleep quality can help you feel more confident and emotionally balanced."
+    ],
+    "category": "sleep issues",
+    "tags": ["self-esteem", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are ruining my life?",
+    "response": [
+      "Remember that sleep issues are common and treatable—you’re not alone.",
+      "Start with small steps to improve sleep hygiene, and consider seeking professional help if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I feel tired even after sleeping for 8 hours?",
+    "response": [
+      "Feeling tired after 8 hours of sleep could be due to poor sleep quality, stress, or an underlying sleep disorder.",
+      "Consider tracking your sleep patterns and consulting a doctor if the issue persists."
+    ],
+    "category": "sleep issues",
+    "tags": ["fatigue", "sleep quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop waking up with a headache?",
+    "response": [
+      "Waking up with a headache could be due to dehydration, poor sleep posture, or sleep apnea.",
+      "Stay hydrated, adjust your sleeping position, and consult a doctor if headaches persist."
+    ],
+    "category": "sleep issues",
+    "tags": ["headache", "coping"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can sleep issues cause weight gain?",
+    "response": [
+      "Yes, poor sleep can disrupt hormones that regulate hunger, leading to increased appetite and weight gain.",
+      "Prioritizing sleep can help maintain a healthy weight."
+    ],
+    "category": "sleep issues",
+    "tags": ["weight gain", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling sleepy during the day?",
+    "response": [
+      "Avoid heavy meals and caffeine late in the day, and take short breaks to recharge.",
+      "Ensure you’re getting 7-9 hours of quality sleep each night."
+    ],
+    "category": "sleep issues",
+    "tags": ["daytime sleepiness", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my heart health?",
+    "response": [
+      "Yes, chronic sleep problems like insomnia or sleep apnea can increase the risk of heart disease.",
+      "Improving sleep quality is important for overall cardiovascular health."
+    ],
+    "category": "sleep issues",
+    "tags": ["heart health", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling anxious about going to bed?",
+    "response": [
+      "Create a calming bedtime routine and focus on relaxation techniques like deep breathing or meditation.",
+      "If anxiety persists, consider talking to a therapist."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my skin?",
+    "response": [
+      "Yes, poor sleep can lead to dark circles, dull skin, and premature aging.",
+      "Prioritizing sleep can help your skin look healthier and more radiant."
+    ],
+    "category": "sleep issues",
+    "tags": ["skin health", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling groggy after a nap?",
+    "response": [
+      "Limit naps to 20-30 minutes and avoid napping late in the day.",
+      "Drink water and expose yourself to light to help wake up feeling refreshed."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my hormones?",
+    "response": [
+      "Yes, poor sleep can disrupt hormones that regulate hunger, stress, and mood.",
+      "Improving sleep quality can help balance your hormones and overall health."
+    ],
+    "category": "sleep issues",
+    "tags": ["hormones", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like I’m not getting deep sleep?",
+    "response": [
+      "Practice good sleep hygiene, like maintaining a consistent sleep schedule and creating a calming bedtime routine.",
+      "Avoid caffeine and screens before bed to improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["deep sleep", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my immune system?",
+    "response": [
+      "Yes, poor sleep can weaken your immune system, making you more susceptible to illnesses.",
+      "Prioritizing sleep is important for both physical and mental health."
+    ],
+    "category": "sleep issues",
+    "tags": ["immune system", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling restless in bed?",
+    "response": [
+      "Try relaxation techniques like deep breathing, meditation, or gentle stretching before bed.",
+      "Avoid caffeine and heavy meals close to bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["restlessness", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my memory?",
+    "response": [
+      "Yes, poor sleep can impair your ability to form and retain memories.",
+      "Improving sleep quality can enhance cognitive function and memory."
+    ],
+    "category": "sleep issues",
+    "tags": ["memory", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling overwhelmed by my sleep issues?",
+    "response": [
+      "Break the problem into smaller steps, like improving sleep hygiene or trying relaxation techniques.",
+      "Consider seeking support from a therapist or sleep specialist if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["overwhelm", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my productivity?",
+    "response": [
+      "Yes, poor sleep can reduce focus, creativity, and efficiency at work or school.",
+      "Prioritizing sleep can help you perform better and feel more energized."
+    ],
+    "category": "sleep issues",
+    "tags": ["productivity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling guilty about needing more sleep?",
+    "response": [
+      "Remember that sleep is essential for your mental and physical health, not a luxury.",
+      "Prioritizing sleep is an act of self-care and helps you function at your best."
+    ],
+    "category": "sleep issues",
+    "tags": ["guilt", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my decision-making?",
+    "response": [
+      "Yes, poor sleep can impair judgment and make it harder to make clear decisions.",
+      "Improving sleep quality can help you think more clearly and make better choices."
+    ],
+    "category": "sleep issues",
+    "tags": ["decision-making", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like I’m not getting enough sleep?",
+    "response": [
+      "Focus on quality over quantity—improving sleep hygiene can make your sleep more restful.",
+      "If you’re still struggling, consider tracking your sleep patterns or consulting a professional."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep quality", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my creativity?",
+    "response": [
+      "Yes, poor sleep can reduce your ability to think creatively and solve problems.",
+      "Improving sleep quality can help you feel more inspired and innovative."
+    ],
+    "category": "sleep issues",
+    "tags": ["creativity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are out of control?",
+    "response": [
+      "Start with small changes, like setting a consistent bedtime or creating a relaxing bedtime routine.",
+      "If needed, seek support from a therapist or sleep specialist to develop a plan."
+    ],
+    "category": "sleep issues",
+    "tags": ["control", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my self-esteem?",
+    "response": [
+      "Yes, poor sleep can lead to fatigue and irritability, which can affect how you feel about yourself.",
+      "Improving sleep quality can help you feel more confident and emotionally balanced."
+    ],
+    "category": "sleep issues",
+    "tags": ["self-esteem", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are ruining my life?",
+    "response": [
+      "Remember that sleep issues are common and treatable—you’re not alone.",
+      "Start with small steps to improve sleep hygiene, and consider seeking professional help if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I wake up at the same time every night?",
+    "response": [
+      "Waking up at the same time every night could be due to stress, an irregular sleep schedule, or an underlying sleep disorder.",
+      "Try relaxation techniques and maintain a consistent sleep routine."
+    ],
+    "category": "sleep issues",
+    "tags": ["waking up", "causes"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like I’m not in control of my sleep?",
+    "response": [
+      "Focus on small, manageable changes like setting a consistent bedtime and creating a calming bedtime routine.",
+      "If needed, seek support from a therapist or sleep specialist."
+    ],
+    "category": "sleep issues",
+    "tags": ["control", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my relationships?",
+    "response": [
+      "Yes, poor sleep can lead to irritability and difficulty communicating, which can strain relationships.",
+      "Improving sleep quality can help you feel more patient and emotionally balanced."
+    ],
+    "category": "sleep issues",
+    "tags": ["relationships", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop snoring to improve my sleep?",
+    "response": [
+      "Try sleeping on your side, avoiding alcohol before bed, and maintaining a healthy weight.",
+      "If snoring persists, consult a doctor to rule out sleep apnea."
+    ],
+    "category": "sleep issues",
+    "tags": ["snoring", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my appetite?",
+    "response": [
+      "Yes, poor sleep can disrupt hormones that regulate hunger, leading to increased appetite and cravings.",
+      "This can contribute to weight gain and affect overall health."
+    ],
+    "category": "sleep issues",
+    "tags": ["appetite", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling restless at night?",
+    "response": [
+      "Try relaxation techniques like deep breathing, meditation, or gentle stretching before bed.",
+      "Avoid caffeine and heavy meals close to bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["restlessness", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my memory?",
+    "response": [
+      "Yes, poor sleep can impair your ability to form and retain memories.",
+      "Improving sleep quality can enhance cognitive function and memory."
+    ],
+    "category": "sleep issues",
+    "tags": ["memory", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling overwhelmed by my sleep issues?",
+    "response": [
+      "Break the problem into smaller steps, like improving sleep hygiene or trying relaxation techniques.",
+      "Consider seeking support from a therapist or sleep specialist if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["overwhelm", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my productivity?",
+    "response": [
+      "Yes, poor sleep can reduce focus, creativity, and efficiency at work or school.",
+      "Prioritizing sleep can help you perform better and feel more energized."
+    ],
+    "category": "sleep issues",
+    "tags": ["productivity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling guilty about needing more sleep?",
+    "response": [
+      "Remember that sleep is essential for your mental and physical health, not a luxury.",
+      "Prioritizing sleep is an act of self-care and helps you function at your best."
+    ],
+    "category": "sleep issues",
+    "tags": ["guilt", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my decision-making?",
+    "response": [
+      "Yes, poor sleep can impair judgment and make it harder to make clear decisions.",
+      "Improving sleep quality can help you think more clearly and make better choices."
+    ],
+    "category": "sleep issues",
+    "tags": ["decision-making", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like I’m not getting enough sleep?",
+    "response": [
+      "Focus on quality over quantity—improving sleep hygiene can make your sleep more restful.",
+      "If you’re still struggling, consider tracking your sleep patterns or consulting a professional."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep quality", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my creativity?",
+    "response": [
+      "Yes, poor sleep can reduce your ability to think creatively and solve problems.",
+      "Improving sleep quality can help you feel more inspired and innovative."
+    ],
+    "category": "sleep issues",
+    "tags": ["creativity", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are out of control?",
+    "response": [
+      "Start with small changes, like setting a consistent bedtime or creating a relaxing bedtime routine.",
+      "If needed, seek support from a therapist or sleep specialist to develop a plan."
+    ],
+    "category": "sleep issues",
+    "tags": ["control", "coping"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep issues affect my self-esteem?",
+    "response": [
+      "Yes, poor sleep can lead to fatigue and irritability, which can affect how you feel about yourself.",
+      "Improving sleep quality can help you feel more confident and emotionally balanced."
+    ],
+    "category": "sleep issues",
+    "tags": ["self-esteem", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I stop feeling like my sleep issues are ruining my life?",
+    "response": [
+      "Remember that sleep issues are common and treatable—you’re not alone.",
+      "Start with small steps to improve sleep hygiene, and consider seeking professional help if needed."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "mental wellness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are sleep disorders?",
+    "response": [
+      "Sleep disorders are conditions that affect the quality, timing, or duration of sleep.",
+      "They can interfere with a person’s ability to function properly during the day."
+    ],
+    "category": "sleep issues",
+    "tags": ["definition", "general"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What causes sleep problems?",
+    "response": [
+      "Sleep problems can be caused by stress, anxiety, medical conditions, or poor sleep habits.",
+      "Other factors include caffeine intake, irregular sleep schedules, and environmental disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["causes", "triggers"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the symptoms of sleep deprivation?",
+    "response": [
+      "Symptoms of sleep deprivation include daytime fatigue, difficulty concentrating, and mood swings.",
+      "Chronic sleep deprivation can also lead to memory issues, weakened immunity, and increased risk of diseases."
+    ],
+    "category": "sleep issues",
+    "tags": ["symptoms", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I improve my sleep quality?",
+    "response": [
+      "You can improve sleep quality by maintaining a consistent sleep schedule and creating a relaxing bedtime routine.",
+      "Avoiding caffeine before bed and limiting screen time can also help."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "self-help"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is insomnia?",
+    "response": [
+      "Insomnia is a common sleep disorder that makes it difficult to fall asleep or stay asleep.",
+      "It can be short-term due to stress or long-term due to underlying health conditions."
+    ],
+    "category": "sleep issues",
+    "tags": ["definition", "disorders"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the causes of insomnia?",
+    "response": [
+      "Insomnia can be caused by stress, anxiety, depression, or poor sleep habits.",
+      "Other causes include medical conditions, medications, and excessive caffeine or alcohol consumption."
+    ],
+    "category": "sleep issues",
+    "tags": ["causes", "triggers"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I manage insomnia?",
+    "response": [
+      "Managing insomnia involves relaxation techniques, cognitive behavioral therapy, and good sleep hygiene.",
+      "Reducing stress and avoiding stimulants before bed can also help."
+    ],
+    "category": "sleep issues",
+    "tags": ["coping", "treatment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is sleep apnea?",
+    "response": [
+      "Sleep apnea is a serious sleep disorder where breathing repeatedly stops and starts during sleep.",
+      "It can lead to excessive daytime sleepiness and increased risk of heart problems."
+    ],
+    "category": "sleep issues",
+    "tags": ["definition", "disorders"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the symptoms of sleep apnea?",
+    "response": [
+      "Symptoms of sleep apnea include loud snoring, gasping for air during sleep, and excessive daytime sleepiness.",
+      "Other symptoms may include difficulty concentrating and morning headaches."
+    ],
+    "category": "sleep issues",
+    "tags": ["symptoms", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can sleep apnea be treated?",
+    "response": [
+      "Sleep apnea can be treated with lifestyle changes, continuous positive airway pressure (CPAP) therapy, or surgery.",
+      "Weight loss and avoiding alcohol before bed may also help improve symptoms."
+    ],
+    "category": "sleep issues",
+    "tags": ["treatment", "health"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does using a mobile phone at night affect sleep quality?",
+    "response": [
+      "Using a mobile phone at night can lead to poor sleep quality by delaying sleep onset and reducing deep sleep.",
+      "It can cause sleep fragmentation, making you feel tired even after a full night's rest."
+    ],
+    "category": "sleep issues",
+    "tags": ["mobile phone", "sleep quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do people struggle to put their phones away before bed?",
+    "response": [
+      "Many people struggle to put their phones away due to social media engagement and addictive content.",
+      "Dopamine release from notifications and scrolling keeps the brain alert, making it harder to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["habit", "sleep disruption"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the common signs of sleep deprivation due to mobile phone use?",
+    "response": [
+      "Signs include excessive daytime sleepiness, difficulty concentrating, and frequent headaches.",
+      "Other symptoms may include mood swings, irritability, and reduced productivity."
+    ],
+    "category": "sleep issues",
+    "tags": ["symptoms", "mobile phone"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does blue light from screens impact melatonin production?",
+    "response": [
+      "Blue light suppresses melatonin production, making it harder to fall asleep.",
+      "It tricks the brain into thinking it’s still daytime, disrupting the natural sleep cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "melatonin"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is 'revenge bedtime procrastination,' and how does it relate to mobile phone use?",
+    "response": [
+      "Revenge bedtime procrastination is delaying sleep to regain personal time, often due to excessive phone use.",
+      "People scroll social media or watch videos late at night, sacrificing sleep to feel in control of their time."
+    ],
+    "category": "sleep issues",
+    "tags": ["procrastination", "phone addiction"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can using dark mode reduce the negative effects of phone screens on sleep?",
+    "response": [
+      "Dark mode reduces screen brightness but does not completely eliminate blue light exposure.",
+      "Using blue light filters or night mode can be more effective in minimizing sleep disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["dark mode", "blue light"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does excessive screen time before bed affect REM sleep?",
+    "response": [
+      "Excessive screen time reduces REM sleep, which is crucial for memory and emotional processing.",
+      "Poor REM sleep can lead to grogginess, mood disturbances, and impaired cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["REM sleep", "cognitive function"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are some effective ways to reduce mobile phone use before bedtime?",
+    "response": [
+      "Setting a screen curfew at least 30-60 minutes before bed can help improve sleep quality.",
+      "Using alternatives like reading a book, meditating, or listening to calming music can reduce phone dependence."
+    ],
+    "category": "sleep issues",
+    "tags": ["phone addiction", "healthy habits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can limiting social media use in the evening improve sleep patterns?",
+    "response": [
+      "Yes, limiting social media use in the evening can prevent overstimulation and anxiety before sleep.",
+      "Reducing exposure to online content at night helps calm the mind and promotes faster sleep onset."
+    ],
+    "category": "sleep issues",
+    "tags": ["social media", "sleep patterns"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does doomscrolling at night contribute to insomnia?",
+    "response": [
+      "Doomscrolling exposes the brain to stressful content, increasing anxiety and making it harder to relax before sleep.",
+      "It keeps the mind engaged and alert, leading to delayed sleep onset and poor sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["doomscrolling", "insomnia"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do people feel addicted to their phones at night?",
+    "response": [
+      "Mobile phones provide instant entertainment and social connection, making them hard to put down at night.",
+      "The dopamine release from notifications and scrolling keeps the brain stimulated, delaying sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["phone addiction", "nighttime habits"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does social media affect sleep patterns?",
+    "response": [
+      "Social media can create anxiety and overstimulation, making it difficult to relax before bed.",
+      "The constant urge to check updates can delay sleep and reduce sleep duration."
+    ],
+    "category": "sleep issues",
+    "tags": ["social media", "sleep disruption"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can blue light blocking glasses improve sleep quality?",
+    "response": [
+      "Blue light blocking glasses can reduce melatonin suppression, making it easier to fall asleep.",
+      "While helpful, they should be combined with reduced screen time for the best results."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "melatonin"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the impact of using a mobile phone on sleep latency?",
+    "response": [
+      "Mobile phone use before bed increases sleep latency, meaning it takes longer to fall asleep.",
+      "It keeps the brain engaged, making it harder to relax and transition into sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep latency", "phone use"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can bedtime routines help reduce mobile phone dependency at night?",
+    "response": [
+      "Establishing a bedtime routine with relaxing activities can reduce the need for phone use before sleep.",
+      "Reading a book, meditating, or listening to soft music can replace screen time and improve sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["healthy habits", "bedtime routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Does watching YouTube before bed affect sleep differently than scrolling social media?",
+    "response": [
+      "Watching YouTube can delay sleep but may be less interactive than social media, making it slightly less disruptive.",
+      "Social media involves engagement and notifications, which can cause greater sleep disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["YouTube", "social media"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can reducing mobile phone brightness at night improve sleep?",
+    "response": [
+      "Lowering screen brightness can reduce eye strain but may not fully prevent melatonin suppression.",
+      "Using a blue light filter or night mode is a more effective way to reduce sleep disruption."
+    ],
+    "category": "sleep issues",
+    "tags": ["screen brightness", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do people wake up feeling tired even after using their phone late at night?",
+    "response": [
+      "Late-night phone use reduces deep sleep and REM sleep, leading to poor rest quality.",
+      "The brain remains in an alert state, preventing full relaxation and recovery during sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["fatigue", "sleep cycle"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can night mode or dark mode on a phone help with sleep?",
+    "response": [
+      "Night mode reduces blue light exposure, which can help minimize melatonin disruption.",
+      "However, it does not fully prevent the stimulating effects of screen time before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["dark mode", "blue light"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Does scrolling TikTok before bed lead to worse sleep than other apps?",
+    "response": [
+      "TikTok’s short video format creates a continuous loop of stimulation, making it harder to stop scrolling and sleep.",
+      "It can lead to excessive screen time, delaying sleep onset and reducing sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["TikTok", "phone addiction"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the effects of doomscrolling on mental health and sleep?",
+    "response": [
+      "Doomscrolling exposes users to negative content, increasing anxiety and stress before bed.",
+      "This mental stimulation makes it difficult to relax, leading to insomnia and sleep disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["doomscrolling", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do people binge-watch series at night instead of sleeping?",
+    "response": [
+      "Streaming platforms use autoplay features, encouraging binge-watching and delaying sleep.",
+      "The excitement from engaging content keeps the brain active, making it harder to wind down."
+    ],
+    "category": "sleep issues",
+    "tags": ["binge-watching", "screen time"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the long-term health effects of chronic sleep deprivation due to mobile phone use?",
+    "response": [
+      "Chronic sleep deprivation can lead to memory issues, weakened immunity, and increased risk of heart disease.",
+      "It also contributes to mental health issues like anxiety and depression over time."
+    ],
+    "category": "sleep issues",
+    "tags": ["health effects", "sleep deprivation"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can listening to audiobooks instead of using a phone help with better sleep?",
+    "response": [
+      "Audiobooks provide a screen-free alternative that can help the brain relax before sleep.",
+      "They can reduce nighttime screen time and encourage sleep-friendly habits."
+    ],
+    "category": "sleep issues",
+    "tags": ["audiobooks", "screen-free alternatives"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does excessive screen time at night affect academic performance?",
+    "response": [
+      "Late-night screen time reduces sleep duration, leading to poor concentration and lower academic performance.",
+      "Sleep-deprived students often struggle with memory retention and focus during studies."
+    ],
+    "category": "sleep issues",
+    "tags": ["academic performance", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are some effective digital detox strategies to improve sleep quality?",
+    "response": [
+      "Setting screen-free hours before bedtime and using alarm clocks instead of phones can help improve sleep.",
+      "Engaging in relaxing activities like journaling or meditating can replace nighttime phone use."
+    ],
+    "category": "sleep issues",
+    "tags": ["digital detox", "healthy habits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Does checking emails or work messages at night contribute to sleep disturbances?",
+    "response": [
+      "Checking emails at night keeps the mind in work mode, making it harder to relax and fall asleep.",
+      "Work-related stress at night can lead to difficulty sleeping and poor work-life balance."
+    ],
+    "category": "sleep issues",
+    "tags": ["work stress", "sleep disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does inconsistent sleep timing affect overall health?",
+    "response": [
+      "Irregular sleep schedules disrupt the body's internal clock, leading to fatigue and poor concentration.",
+      "Long-term inconsistencies can increase the risk of metabolic disorders and heart disease."
+    ],
+    "category": "sleep issues",
+    "tags": ["irregular sleep", "health impact"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can taking naps during the day worsen sleep problems at night?",
+    "response": [
+      "Long naps, especially in the late afternoon, can reduce nighttime sleep drive, making it harder to fall asleep.",
+      "Short power naps (10-20 minutes) are less likely to interfere with sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["naps", "sleep cycle"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is sleep inertia, and how does it affect daily functioning?",
+    "response": [
+      "Sleep inertia is the groggy feeling experienced after waking up from deep sleep.",
+      "It can impair cognitive performance, reaction time, and decision-making for a short period after waking."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep inertia", "cognitive function"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does stress impact sleep quality?",
+    "response": [
+      "Stress activates the nervous system, making it harder to relax and fall asleep.",
+      "Chronic stress can lead to insomnia, fragmented sleep, and increased nighttime awakenings."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "insomnia"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Why do some people experience nightmares more frequently?",
+    "response": [
+      "Nightmares can be triggered by stress, trauma, medications, or sleep disorders like PTSD.",
+      "Poor sleep hygiene and irregular sleep schedules can also contribute to frequent nightmares."
+    ],
+    "category": "sleep issues",
+    "tags": ["nightmares", "mental health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can exercising at night negatively affect sleep?",
+    "response": [
+      "Intense exercise close to bedtime can increase alertness and body temperature, delaying sleep.",
+      "Light exercises like yoga or stretching can promote relaxation and better sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does caffeine consumption in the evening impact sleep?",
+    "response": [
+      "Caffeine stimulates the nervous system, making it harder to fall asleep and reducing deep sleep.",
+      "It has a half-life of 5-6 hours, meaning even an afternoon coffee can affect nighttime sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["caffeine", "sleep disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is sleep paralysis, and why does it happen?",
+    "response": [
+      "Sleep paralysis occurs when the body is temporarily unable to move while waking up or falling asleep.",
+      "It is caused by a disruption in the sleep cycle and can be linked to stress, anxiety, and irregular sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep paralysis", "sleep disorders"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does alcohol affect sleep patterns?",
+    "response": [
+      "Alcohol initially makes people feel sleepy but disrupts REM sleep, leading to poor sleep quality.",
+      "It can cause more frequent awakenings and increase the risk of sleep apnea."
+    ],
+    "category": "sleep issues",
+    "tags": ["alcohol", "REM sleep"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the effects of working night shifts on sleep health?",
+    "response": [
+      "Night shift work disrupts the body's natural sleep-wake cycle, increasing the risk of sleep disorders.",
+      "It can lead to excessive daytime sleepiness, fatigue, and long-term health problems."
+    ],
+    "category": "sleep issues",
+    "tags": ["night shifts", "circadian rhythm"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can sleeping in on weekends fix sleep deprivation?",
+    "response": [
+      "Catching up on sleep during weekends can help reduce sleep debt, but it does not fully restore lost sleep.",
+      "Maintaining a consistent sleep schedule is the best way to improve overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["weekend sleep", "sleep debt"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What role does room temperature play in sleep quality?",
+    "response": [
+      "A cool room temperature (around 18-20°C) promotes better sleep by supporting the body's natural temperature drop.",
+      "Overly warm environments can cause discomfort and increase nighttime awakenings."
+    ],
+    "category": "sleep issues",
+    "tags": ["room temperature", "sleep hygiene"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do some people talk in their sleep?",
+    "response": [
+      "Sleep talking is a common parasomnia that occurs during non-REM and REM sleep.",
+      "It is usually harmless but can be triggered by stress, sleep deprivation, or fever."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep talking", "parasomnia"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does screen time before bed affect children differently than adults?",
+    "response": [
+      "Children are more sensitive to blue light, making it harder for them to fall asleep after screen exposure.",
+      "Screen time can also overstimulate young brains, leading to difficulty winding down at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["children", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can meditation help with sleep problems?",
+    "response": [
+      "Meditation promotes relaxation, reduces stress, and helps regulate breathing, improving sleep quality.",
+      "Mindfulness meditation has been shown to be effective in treating insomnia and reducing nighttime anxiety."
+    ],
+    "category": "sleep issues",
+    "tags": ["meditation", "sleep therapy"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the signs of chronic insomnia?",
+    "response": [
+      "Chronic insomnia includes difficulty falling asleep, frequent awakenings, and waking up too early for at least 3 months.",
+      "It can cause daytime fatigue, irritability, and decreased cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "symptoms"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does deep sleep contribute to overall health?",
+    "response": [
+      "Deep sleep is crucial for physical restoration, immune function, and memory consolidation.",
+      "Lack of deep sleep can lead to increased stress, weakened immunity, and impaired cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["deep sleep", "health benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do people struggle to fall asleep at night?",
+    "response": [
+      "Sleep difficulties can be caused by stress, poor sleep hygiene, and excessive screen time.",
+      "Lifestyle habits such as consuming caffeine or irregular sleep schedules can also lead to insomnia."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "causes"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does social media use before bed impact sleep?",
+    "response": [
+      "Social media stimulates the brain, making it harder to relax and fall asleep.",
+      "Excessive screen time before bed can suppress melatonin production and disrupt sleep cycles."
+    ],
+    "category": "sleep issues",
+    "tags": ["social media", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the health risks of long-term sleep deprivation?",
+    "response": [
+      "Chronic sleep deprivation can lead to heart disease, obesity, diabetes, and weakened immunity.",
+      "It also increases the risk of mental health disorders such as anxiety and depression."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep deprivation", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How can I improve my sleep quality naturally?",
+    "response": [
+      "Improving sleep hygiene, such as maintaining a consistent bedtime and limiting screen time, can help.",
+      "Relaxation techniques like meditation and deep breathing can also promote better sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep hygiene", "solutions"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleeping with a phone next to me affect my sleep?",
+    "response": [
+      "Yes, using a phone before bed can delay sleep onset and reduce sleep quality.",
+      "Electromagnetic radiation and blue light exposure may interfere with melatonin production."
+    ],
+    "category": "sleep issues",
+    "tags": ["screen time", "sleep disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the best sleep position for better rest?",
+    "response": [
+      "Sleeping on your back can help with spinal alignment and reduce acid reflux.",
+      "Side sleeping is recommended for people with sleep apnea and snoring issues."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep position", "sleep quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does excessive gaming at night impact sleep patterns?",
+    "response": [
+      "Gaming before bed increases brain activity, making it harder to fall asleep.",
+      "It can also cause sleep delays, leading to insufficient rest and daytime fatigue."
+    ],
+    "category": "sleep issues",
+    "tags": ["gaming", "sleep cycle"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can listening to music before bed improve sleep?",
+    "response": [
+      "Calming music can help relax the mind and improve sleep quality.",
+      "However, loud or stimulating music may have the opposite effect."
+    ],
+    "category": "sleep issues",
+    "tags": ["music", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does blue light exposure affect melatonin levels?",
+    "response": [
+      "Blue light suppresses melatonin production, making it harder to fall asleep.",
+      "Prolonged exposure can shift circadian rhythms, leading to sleep disorders."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "melatonin"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Does an afternoon nap affect nighttime sleep?",
+    "response": [
+      "Short naps (10-20 minutes) can be beneficial, but long naps may interfere with nighttime sleep.",
+      "Napping too late in the day can delay sleep onset at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "sleep cycle"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the symptoms of sleep deprivation?",
+    "response": [
+      "Common symptoms include fatigue, irritability, difficulty concentrating, and memory problems.",
+      "Severe sleep deprivation can also cause mood swings and increased stress levels."
+    ],
+    "category": "sleep issues",
+    "tags": ["symptoms", "health effects"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does night shift work affect sleep?",
+    "response": [
+      "Working night shifts disrupts circadian rhythms, leading to poor sleep quality.",
+      "Shift workers often experience excessive daytime sleepiness and difficulty maintaining a regular sleep schedule."
+    ],
+    "category": "sleep issues",
+    "tags": ["night shift", "circadian rhythm"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the ideal sleep duration for adults?",
+    "response": [
+      "Most adults need between 7-9 hours of sleep per night for optimal health.",
+      "Less than 6 hours of sleep regularly can increase health risks over time."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep duration", "health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Why do people experience difficulty waking up in the morning?",
+    "response": [
+      "Poor sleep quality, irregular sleep schedules, and sleep disorders can make waking up difficult.",
+      "Heavy sleep inertia, caused by waking up during deep sleep, can also lead to grogginess."
+    ],
+    "category": "sleep issues",
+    "tags": ["waking up", "sleep inertia"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can stress cause frequent awakenings at night?",
+    "response": [
+      "Yes, high stress levels can lead to frequent nighttime awakenings and restless sleep.",
+      "Managing stress through relaxation techniques can help improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "sleep disturbance"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Does drinking water before bed cause sleep disturbances?",
+    "response": [
+      "Drinking too much water before bed may lead to frequent trips to the bathroom, disrupting sleep.",
+      "Limiting fluids an hour before bedtime can help maintain uninterrupted sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["hydration", "sleep disruption"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does light exposure in the evening affect sleep?",
+    "response": [
+      "Bright lights in the evening delay melatonin release, making it harder to fall asleep.",
+      "Dimming lights and avoiding screens can help regulate sleep cycles."
+    ],
+    "category": "sleep issues",
+    "tags": ["light exposure", "circadian rhythm"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Is it bad to use sleeping pills regularly?",
+    "response": [
+      "Frequent use of sleeping pills can lead to dependency and reduced natural sleep quality.",
+      "It is best to address underlying sleep issues with lifestyle changes and professional guidance."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleeping pills", "dependency"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the benefits of a bedtime routine?",
+    "response": [
+      "A consistent bedtime routine helps signal the brain that it's time to sleep.",
+      "Relaxing activities like reading or taking a warm bath can improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["bedtime routine", "sleep hygiene"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What causes insomnia in adults?",
+    "response": [
+      "Insomnia in adults can be triggered by stress, poor sleep habits, or underlying health conditions.",
+      "Identifying the root cause is key to finding an effective treatment."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "causes"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does sleep hygiene affect sleep quality?",
+    "response": [
+      "Maintaining good sleep hygiene, like a consistent bedtime and a quiet environment, significantly improves sleep quality.",
+      "It minimizes disturbances and promotes restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep hygiene", "quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can dietary habits influence sleep patterns?",
+    "response": [
+      "Yes, eating heavy meals or spicy food before bed can disrupt your sleep cycle.",
+      "Conversely, a balanced diet rich in sleep-promoting nutrients may improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "sleep patterns"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does caffeine consumption impact sleep?",
+    "response": [
+      "Caffeine is a stimulant that can delay sleep onset and reduce sleep depth.",
+      "Its effects can last for several hours, especially when consumed in the afternoon or evening."
+    ],
+    "category": "sleep issues",
+    "tags": ["caffeine", "stimulant"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What role does exercise play in sleep quality?",
+    "response": [
+      "Regular physical activity can help regulate your sleep cycle and reduce insomnia.",
+      "However, intense exercise too close to bedtime might have the opposite effect."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "sleep quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do stress levels correlate with sleep problems?",
+    "response": [
+      "High stress levels can make it difficult to relax, leading to longer sleep onset and frequent awakenings.",
+      "Stress management techniques can help reduce these sleep disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "sleep disturbances"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the relationship between anxiety and sleep disturbances?",
+    "response": [
+      "Anxiety can lead to racing thoughts that make it difficult to fall asleep.",
+      "This often results in a cycle of poor sleep, which can further exacerbate anxiety."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "sleep disturbances"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can meditation improve sleep quality?",
+    "response": [
+      "Meditation helps calm the mind and reduce stress, paving the way for better sleep.",
+      "Regular practice can decrease the time it takes to fall asleep and improve sleep depth."
+    ],
+    "category": "sleep issues",
+    "tags": ["meditation", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does technology use before bed disrupt sleep?",
+    "response": [
+      "Exposure to screens before bed emits blue light, which can interfere with melatonin production.",
+      "This disruption can delay sleep onset and reduce overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["technology", "blue light"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the effects of blue light on circadian rhythm?",
+    "response": [
+      "Blue light exposure, especially in the evening, can shift your circadian rhythm by suppressing melatonin.",
+      "This leads to difficulty falling asleep at the usual time."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "circadian rhythm"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How do late-night screen habits impact sleep?",
+    "response": [
+      "Late-night screen habits keep the brain active and delay the natural wind-down process.",
+      "This can result in shorter sleep duration and poorer sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["screen time", "sleep disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the symptoms of sleep apnea?",
+    "response": [
+      "Sleep apnea is characterized by loud snoring, gasping during sleep, and frequent awakenings.",
+      "Daytime fatigue and morning headaches are also common symptoms."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep apnea", "symptoms"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can poor sleep lead to weight gain?",
+    "response": [
+      "Poor sleep can disrupt hormones that regulate hunger, potentially leading to overeating and weight gain.",
+      "Consistently inadequate sleep is linked to metabolic imbalances."
+    ],
+    "category": "sleep issues",
+    "tags": ["weight gain", "hormones"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does alcohol consumption affect sleep cycles?",
+    "response": [
+      "While alcohol might help you fall asleep faster, it disrupts the sleep cycle by reducing REM sleep.",
+      "This can leave you feeling less rested in the morning."
+    ],
+    "category": "sleep issues",
+    "tags": ["alcohol", "REM sleep"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the impact of irregular sleep schedules on health?",
+    "response": [
+      "Irregular sleep schedules can confuse your internal clock, leading to chronic fatigue.",
+      "They may also increase the risk of metabolic disorders and cardiovascular issues."
+    ],
+    "category": "sleep issues",
+    "tags": ["irregular sleep", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How do sleep disorders affect mental health?",
+    "response": [
+      "Sleep disorders are often linked to mental health conditions such as anxiety and depression.",
+      "Poor sleep quality can worsen symptoms and decrease overall emotional resilience."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "sleep disorders"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What strategies can improve sleep hygiene?",
+    "response": [
+      "Improving sleep hygiene can involve setting a regular bedtime, reducing screen time, and creating a restful environment.",
+      "Consistent routines and relaxation techniques also play an important role."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep hygiene", "strategies"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does room temperature affect sleep quality?",
+    "response": [
+      "A cooler room temperature helps lower body temperature, signaling that it's time to sleep.",
+      "Too warm or too cold an environment can lead to disrupted sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["environment", "temperature"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is REM sleep and why is it important?",
+    "response": [
+      "REM sleep is a stage of sleep where dreaming occurs and the brain processes emotions and memories.",
+      "It is crucial for cognitive function and overall mental health."
+    ],
+    "category": "sleep issues",
+    "tags": ["REM sleep", "brain health"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can napping during the day affect nighttime sleep?",
+    "response": [
+      "Long or late-day naps can reduce sleep pressure at night, making it harder to fall asleep.",
+      "Short naps of 10-20 minutes generally have a lesser impact."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "sleep cycle"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does noise pollution impact sleep quality?",
+    "response": [
+      "Excessive noise can interrupt sleep cycles and prevent deep, restorative sleep.",
+      "A quiet environment is essential for maintaining uninterrupted sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["noise", "sleep disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the effect of a comfortable mattress on sleep?",
+    "response": [
+      "A supportive and comfortable mattress can significantly improve sleep quality and reduce body aches.",
+      "Investing in good bedding is often a simple way to enhance sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["mattress", "comfort"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does chronic pain interfere with sleep?",
+    "response": [
+      "Chronic pain can make it difficult to find a comfortable position and stay asleep throughout the night.",
+      "Managing pain is often a critical part of improving sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic pain", "sleep disturbance"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are common triggers for nightmares?",
+    "response": [
+      "Nightmares can be triggered by stress, trauma, certain medications, or sleep disorders.",
+      "Reducing stress and seeking treatment for underlying issues can help lessen their frequency."
+    ],
+    "category": "sleep issues",
+    "tags": ["nightmares", "triggers"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How can environmental factors disrupt sleep?",
+    "response": [
+      "Factors such as light, temperature, and noise can all contribute to sleep disturbances.",
+      "Optimizing your sleeping environment can lead to more restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["environment", "sleep disruption"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can essential oils promote better sleep?",
+    "response": [
+      "Essential oils like lavender and chamomile have calming effects that may improve sleep quality.",
+      "Using a diffuser before bed can create a soothing environment conducive to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["essential oils", "natural remedies"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep deprivation affect cognitive function?",
+    "response": [
+      "Lack of sleep impairs concentration, memory, and decision-making skills.",
+      "Over time, chronic sleep deprivation can significantly hinder cognitive performance."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep deprivation", "cognition"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the benefits of a regular sleep schedule?",
+    "response": [
+      "A consistent sleep schedule helps regulate your body’s internal clock.",
+      "This consistency promotes deeper, more restorative sleep and better overall health."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "sleep schedule"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does depression influence sleep patterns?",
+    "response": [
+      "Depression can lead to both insomnia and hypersomnia, disrupting normal sleep patterns.",
+      "Effective treatment of depression often helps improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["depression", "sleep patterns"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can sleep disorders increase the risk of chronic diseases?",
+    "response": [
+      "Chronic sleep disorders are linked to an increased risk of heart disease, diabetes, and obesity.",
+      "Proper management and treatment of sleep disorders are essential for long-term health."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic diseases", "sleep disorders"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is sleep latency and why does it matter?",
+    "response": [
+      "Sleep latency refers to the time it takes to transition from full wakefulness to sleep.",
+      "A shorter sleep latency generally indicates better sleep health."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep latency", "diagnostics"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do hormonal changes affect sleep in women?",
+    "response": [
+      "Hormonal fluctuations during menstrual cycles, pregnancy, and menopause can disrupt sleep patterns.",
+      "Managing these changes through lifestyle adjustments or medical advice can improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["hormones", "women's health"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can improving diet improve sleep quality?",
+    "response": [
+      "A balanced diet rich in vitamins and minerals supports overall health, including sleep.",
+      "Certain foods and nutrients can promote the production of sleep-regulating hormones."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "sleep quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the role of melatonin in sleep regulation?",
+    "response": [
+      "Melatonin is a hormone that signals the body to prepare for sleep.",
+      "Its production is influenced by light exposure and helps regulate the sleep-wake cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["melatonin", "hormones"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does an inconsistent bedtime impact sleep quality?",
+    "response": [
+      "Inconsistent bedtimes can confuse your body clock, leading to disrupted sleep cycles.",
+      "Establishing a regular sleep schedule is key to achieving quality sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "sleep quality"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the signs of sleep deprivation?",
+    "response": [
+      "Common signs of sleep deprivation include daytime fatigue, irritability, and difficulty concentrating.",
+      "Chronic sleep loss may also lead to mood swings and impaired cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep deprivation", "symptoms"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does stress management contribute to better sleep?",
+    "response": [
+      "Effective stress management reduces anxiety and helps create a calmer state for sleep.",
+      "Techniques like deep breathing or yoga can lead to more consistent, restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress management", "sleep improvement"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can relaxation techniques reduce sleep disturbances?",
+    "response": [
+      "Relaxation techniques such as progressive muscle relaxation and meditation can lower pre-sleep anxiety.",
+      "This promotes a smoother transition into sleep and minimizes nighttime awakenings."
+    ],
+    "category": "sleep issues",
+    "tags": ["relaxation", "techniques"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does chronic insomnia affect overall health?",
+    "response": [
+      "Chronic insomnia can weaken the immune system and increase the risk of chronic conditions.",
+      "Persistent sleep issues often lead to mood disorders and reduced cognitive performance."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "health effects"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are effective treatments for sleep disorders?",
+    "response": [
+      "Effective treatments include cognitive behavioral therapy, lifestyle changes, and sometimes medication.",
+      "Identifying the type of sleep disorder is essential for choosing the right treatment approach."
+    ],
+    "category": "sleep issues",
+    "tags": ["treatment", "therapy"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does mobile phone usage before bed affect sleep quality?",
+    "response": [
+      "Using a mobile phone before bed exposes you to blue light and engaging content, delaying sleep onset.",
+      "Reducing phone usage in the hour before sleep can improve overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["mobile phone", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can reducing screen time improve sleep?",
+    "response": [
+      "Reducing screen time, especially in the evening, helps restore natural melatonin production.",
+      "This practice leads to a quicker transition to sleep and deeper sleep cycles."
+    ],
+    "category": "sleep issues",
+    "tags": ["screen time", "sleep improvement"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the psychological effects of poor sleep?",
+    "response": [
+      "Poor sleep can lead to increased irritability, mood swings, and difficulty managing stress.",
+      "It may also exacerbate anxiety and depression over time."
+    ],
+    "category": "sleep issues",
+    "tags": ["psychology", "sleep effects"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does light exposure at night affect sleep quality?",
+    "response": [
+      "Exposure to bright or artificial light at night can delay the release of melatonin.",
+      "Dimming lights before bed can help signal the body that it’s time to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["light exposure", "melatonin"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What role does genetics play in sleep disorders?",
+    "response": [
+      "Genetics can predispose individuals to certain sleep disorders, such as insomnia or sleep apnea.",
+      "However, lifestyle factors and environment also significantly influence sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["genetics", "sleep disorders"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can sleep quality impact productivity at work?",
+    "response": [
+      "Poor sleep quality leads to reduced concentration, slower cognitive processing, and lower productivity.",
+      "Ensuring adequate, quality sleep can significantly improve work performance."
+    ],
+    "category": "sleep issues",
+    "tags": ["productivity", "work"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does shift work disrupt the sleep cycle?",
+    "response": [
+      "Shift work forces the body to sleep at unconventional times, disrupting the natural circadian rhythm.",
+      "This can lead to chronic fatigue and long-term health issues."
+    ],
+    "category": "sleep issues",
+    "tags": ["shift work", "circadian disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the long-term effects of sleep deprivation?",
+    "response": [
+      "Long-term sleep deprivation is associated with increased risk of heart disease, diabetes, and mental health issues.",
+      "It also impairs cognitive function and overall quality of life."
+    ],
+    "category": "sleep issues",
+    "tags": ["long-term", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How do sleep patterns change with age?",
+    "response": [
+      "As people age, they tend to experience lighter and more fragmented sleep.",
+      "Older adults may also have advanced sleep phases, meaning they get sleepy earlier in the evening."
+    ],
+    "category": "sleep issues",
+    "tags": ["aging", "sleep patterns"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the risks associated with irregular sleep patterns?",
+    "response": [
+      "Irregular sleep patterns can lead to chronic fatigue and have been linked to cardiovascular issues.",
+      "Maintaining a regular sleep schedule helps stabilize the body’s internal clock."
+    ],
+    "category": "sleep issues",
+    "tags": ["irregular sleep", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can mindfulness meditation help with sleep issues?",
+    "response": [
+      "Mindfulness meditation encourages a relaxed state of mind, which can ease the transition to sleep.",
+      "Regular practice has been shown to reduce symptoms of insomnia."
+    ],
+    "category": "sleep issues",
+    "tags": ["mindfulness", "meditation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do sleep aids affect natural sleep cycles?",
+    "response": [
+      "Sleep aids can help initiate sleep but may alter the natural sleep architecture over time.",
+      "It is generally recommended to use them under medical supervision and combine with lifestyle changes."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep aids", "medication"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the impact of travel on sleep quality?",
+    "response": [
+      "Travel, especially across time zones, can disrupt your circadian rhythm leading to jet lag.",
+      "Adopting strategies like adjusting sleep schedules before travel can help mitigate these effects."
+    ],
+    "category": "sleep issues",
+    "tags": ["travel", "jet lag"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does jet lag disrupt circadian rhythms?",
+    "response": [
+      "Jet lag occurs when your body’s internal clock is out of sync with a new time zone.",
+      "This misalignment can lead to fatigue, insomnia, and reduced cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["jet lag", "circadian rhythm"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can a sleep diary help diagnose sleep problems?",
+    "response": [
+      "Keeping a sleep diary allows you to track sleep patterns, duration, and disturbances over time.",
+      "This record can provide valuable insights for diagnosing and treating sleep issues."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep diary", "diagnosis"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does excessive screen time affect children’s sleep?",
+    "response": [
+      "Children are particularly vulnerable to the effects of blue light, which can delay sleep onset.",
+      "Limiting screen time in the evening can help promote better sleep habits for kids."
+    ],
+    "category": "sleep issues",
+    "tags": ["children", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the benefits of a dark sleeping environment?",
+    "response": [
+      "A dark sleeping environment supports the natural production of melatonin.",
+      "Using blackout curtains or eye masks can greatly enhance sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["dark environment", "melatonin"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep tracking devices help improve sleep habits?",
+    "response": [
+      "Sleep tracking devices provide data on sleep patterns, allowing for adjustments to improve quality.",
+      "They can help identify disturbances and monitor the effectiveness of sleep interventions."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep tracking", "technology"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the effects of sleep disorders on the immune system?",
+    "response": [
+      "Sleep disorders can weaken the immune system, making the body more susceptible to illness.",
+      "Restorative sleep is essential for proper immune function and overall health."
+    ],
+    "category": "sleep issues",
+    "tags": ["immune system", "sleep disorders"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does napping affect the circadian rhythm in adults?",
+    "response": [
+      "Short naps can be refreshing, but long or irregular naps may disrupt your circadian rhythm.",
+      "Keeping naps brief helps maintain a healthy sleep-wake cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "circadian rhythm"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can dietary supplements enhance sleep quality?",
+    "response": [
+      "Certain dietary supplements, like magnesium or melatonin, may help improve sleep quality.",
+      "It is important to consult with a healthcare professional before starting any supplement regimen."
+    ],
+    "category": "sleep issues",
+    "tags": ["supplements", "diet"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does exercise timing influence sleep patterns?",
+    "response": [
+      "Exercising earlier in the day can promote better sleep, while late-night workouts may hinder falling asleep.",
+      "Finding the optimal exercise time is important for maintaining a healthy sleep schedule."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "timing"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the symptoms of restless leg syndrome?",
+    "response": [
+      "Restless leg syndrome is characterized by an uncontrollable urge to move the legs, especially at night.",
+      "This condition can lead to difficulty falling asleep and frequent awakenings."
+    ],
+    "category": "sleep issues",
+    "tags": ["restless leg syndrome", "symptoms"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does light exposure in the morning reset the sleep cycle?",
+    "response": [
+      "Morning light exposure helps reset the circadian clock and signals the body to wake up.",
+      "This practice can improve alertness and overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["morning light", "circadian rhythm"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can stress-relief techniques improve sleep quality?",
+    "response": [
+      "Techniques such as deep breathing, progressive muscle relaxation, and meditation reduce stress.",
+      "Lower stress levels can lead to faster sleep onset and deeper sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress relief", "techniques"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the consequences of chronic sleep deprivation?",
+    "response": [
+      "Chronic sleep deprivation can impair cognitive function, mood, and overall health.",
+      "It is associated with a higher risk of chronic diseases such as diabetes and heart disease."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic sleep deprivation", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep quality affect mood regulation?",
+    "response": [
+      "Adequate sleep supports balanced neurotransmitter levels, helping regulate mood.",
+      "Poor sleep can contribute to irritability, anxiety, and depression."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "sleep quality"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can cognitive behavioral therapy help with insomnia?",
+    "response": [
+      "Cognitive behavioral therapy for insomnia (CBT-I) addresses the thoughts and behaviors that hinder sleep.",
+      "It is considered an effective, long-term treatment for chronic insomnia."
+    ],
+    "category": "sleep issues",
+    "tags": ["CBT", "insomnia"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the benefits of sleep for memory consolidation?",
+    "response": [
+      "During sleep, especially REM sleep, the brain processes and consolidates memories from the day.",
+      "This process is essential for learning and cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["memory", "REM sleep"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep quality impact physical performance?",
+    "response": [
+      "Good quality sleep is essential for muscle recovery and overall physical performance.",
+      "Athletes and active individuals often experience improved performance with adequate sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["physical performance", "recovery"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can poor sleep lead to increased stress levels?",
+    "response": [
+      "Poor sleep can cause a rise in stress hormones, creating a vicious cycle of sleeplessness and stress.",
+      "Addressing sleep quality can help reduce overall stress levels."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "sleep quality"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What role does diet play in managing sleep disorders?",
+    "response": [
+      "A balanced diet that avoids heavy or sugary foods before bed can help manage sleep disorders.",
+      "Nutrients that promote relaxation, such as tryptophan, can improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "sleep disorders"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do sleep aids compare to natural remedies?",
+    "response": [
+      "Sleep aids can offer short-term relief but may interfere with natural sleep cycles over time.",
+      "Natural remedies and lifestyle changes are often recommended for sustainable sleep improvement."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep aids", "natural remedies"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the effects of a noisy environment on sleep?",
+    "response": [
+      "A noisy environment can cause frequent awakenings and reduce the overall quality of sleep.",
+      "Soundproofing and using white noise machines are common solutions to mitigate this issue."
+    ],
+    "category": "sleep issues",
+    "tags": ["noise", "environment"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can regular sleep patterns improve overall mental health?",
+    "response": [
+      "Maintaining regular sleep patterns stabilizes mood and enhances mental clarity.",
+      "Good sleep is a cornerstone of mental health and emotional well-being."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does technology use during the day affect nighttime sleep?",
+    "response": [
+      "Excessive daytime technology use can disrupt natural energy levels, indirectly affecting sleep.",
+      "Balancing screen time throughout the day supports a more stable sleep cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["technology", "daytime use"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the impact of bedtime routines on sleep quality?",
+    "response": [
+      "A consistent bedtime routine signals the brain that it’s time to wind down, improving sleep quality.",
+      "Simple activities like reading or a warm bath can be very effective."
+    ],
+    "category": "sleep issues",
+    "tags": ["bedtime routine", "sleep quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can reducing sugar intake improve sleep?",
+    "response": [
+      "High sugar intake, especially before bed, can lead to energy spikes that disrupt sleep.",
+      "Reducing sugar in the evening may help achieve a more stable sleep pattern."
+    ],
+    "category": "sleep issues",
+    "tags": ["sugar", "diet"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does emotional stress affect sleep cycles?",
+    "response": [
+      "Emotional stress can prolong the time it takes to fall asleep and lead to fragmented sleep.",
+      "Addressing stress through therapy or relaxation techniques can restore healthier sleep cycles."
+    ],
+    "category": "sleep issues",
+    "tags": ["emotional stress", "sleep cycles"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the connection between sleep and brain health?",
+    "response": [
+      "Sleep is critical for brain health as it helps clear metabolic waste and supports cognitive functions.",
+      "Regular, quality sleep contributes to long-term neurological health."
+    ],
+    "category": "sleep issues",
+    "tags": ["brain health", "sleep benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep affect learning and memory?",
+    "response": [
+      "During sleep, the brain consolidates new information, which is vital for learning and memory.",
+      "Poor sleep can impair both short-term and long-term memory retention."
+    ],
+    "category": "sleep issues",
+    "tags": ["learning", "memory"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can aromatherapy help in improving sleep quality?",
+    "response": [
+      "Aromatherapy, particularly with scents like lavender, can have a calming effect that promotes sleep.",
+      "It is a natural remedy that many find effective in reducing nighttime anxiety."
+    ],
+    "category": "sleep issues",
+    "tags": ["aromatherapy", "natural remedy"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep quality impact cardiovascular health?",
+    "response": [
+      "Poor sleep quality has been linked to high blood pressure and an increased risk of heart disease.",
+      "Regular, restorative sleep supports overall cardiovascular health."
+    ],
+    "category": "sleep issues",
+    "tags": ["cardiovascular health", "sleep quality"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the common misconceptions about sleep?",
+    "response": [
+      "Some common misconceptions include the ideas that you can catch up on sleep during weekends or that more sleep is always better.",
+      "In reality, consistency and quality are far more important than simply increasing sleep duration."
+    ],
+    "category": "sleep issues",
+    "tags": ["misconceptions", "sleep facts"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do sleep patterns differ between genders?",
+    "response": [
+      "Studies suggest that women may experience more sleep disturbances than men due to hormonal fluctuations.",
+      "Understanding these differences can help tailor more effective sleep improvement strategies."
+    ],
+    "category": "sleep issues",
+    "tags": ["gender differences", "sleep patterns"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can improving sleep hygiene reduce the risk of sleep disorders?",
+    "response": [
+      "Improving sleep hygiene by adopting regular sleep schedules and a calming bedtime routine can lower the risk of developing sleep disorders.",
+      "These changes create a more consistent and healthy sleep environment."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep hygiene", "prevention"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does late-night snacking affect sleep quality?",
+    "response": [
+      "Eating heavy or spicy foods before bed can cause discomfort and disrupt sleep.",
+      "Opting for light, healthy snacks in the evening may promote better sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["snacking", "diet"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What role does hydration play in sleep regulation?",
+    "response": [
+      "Proper hydration is important for overall health, but drinking large amounts right before bed may lead to disruptions.",
+      "Balancing fluid intake throughout the day can help maintain uninterrupted sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["hydration", "sleep regulation"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can sleep apps help track and improve sleep habits?",
+    "response": [
+      "Sleep apps provide data on sleep duration and quality, which can help identify patterns and problem areas.",
+      "They can be a useful tool for making informed adjustments to your sleep routine."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep apps", "technology"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does exposure to natural light during the day affect sleep?",
+    "response": [
+      "Exposure to natural light helps regulate your circadian rhythm, leading to improved nighttime sleep.",
+      "Spending time outdoors during the day can promote better sleep at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["natural light", "circadian rhythm"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the effects of sleep fragmentation on daily life?",
+    "response": [
+      "Sleep fragmentation, characterized by multiple awakenings, can lead to daytime fatigue and reduced concentration.",
+      "It interrupts the normal sleep cycle and prevents restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep fragmentation", "daily life"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can progressive muscle relaxation enhance sleep quality?",
+    "response": [
+      "Progressive muscle relaxation helps reduce physical tension and prepares the body for sleep.",
+      "It is an effective technique for reducing anxiety and improving overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["relaxation", "techniques"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep quality influence hormonal balance?",
+    "response": [
+      "Poor sleep can disrupt the balance of hormones that regulate stress, appetite, and growth.",
+      "Maintaining good sleep quality helps ensure a stable hormonal environment."
+    ],
+    "category": "sleep issues",
+    "tags": ["hormones", "sleep quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What are the benefits of using blackout curtains for sleep?",
+    "response": [
+      "Blackout curtains block external light, helping to maintain a dark sleeping environment.",
+      "This can improve melatonin production and overall sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["blackout curtains", "environment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep influence emotional resilience?",
+    "response": [
+      "Adequate sleep helps regulate emotions and supports a positive mood.",
+      "A lack of sleep can make it harder to cope with stress and recover from emotional setbacks."
+    ],
+    "category": "sleep issues",
+    "tags": ["emotional resilience", "sleep benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can regular sleep patterns enhance concentration and focus?",
+    "response": [
+      "Consistent sleep patterns lead to improved cognitive function and better concentration.",
+      "A well-rested mind is more alert and capable of sustained focus throughout the day."
+    ],
+    "category": "sleep issues",
+    "tags": ["concentration", "sleep patterns"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the role of dreams in sleep quality?",
+    "response": [
+      "Dreams occur during REM sleep and are believed to play a role in emotional processing and memory consolidation.",
+      "While their exact purpose is still studied, they are an important part of a healthy sleep cycle."
+    ],
+    "category": "sleep issues",
+    "tags": ["dreams", "REM sleep"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does sleep affect decision-making skills?",
+    "response": [
+      "Sleep deprivation can impair judgment, leading to poor decision-making.",
+      "A good night’s sleep ensures that the brain is functioning optimally for complex tasks."
+    ],
+    "category": "sleep issues",
+    "tags": ["decision-making", "cognition"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can sleep training methods help improve sleep in children?",
+    "response": [
+      "Sleep training methods can establish healthy sleep habits and reduce nighttime disturbances in children.",
+      "Consistent routines and positive reinforcement are key to successful sleep training."
+    ],
+    "category": "sleep issues",
+    "tags": ["children", "sleep training"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What lifestyle changes can lead to better sleep quality?",
+    "response": [
+      "Lifestyle changes such as reducing caffeine intake, exercising regularly, and maintaining a consistent bedtime can improve sleep quality.",
+      "These adjustments support the body’s natural rhythms and promote restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["lifestyle", "sleep quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I have trouble falling asleep?",
+    "response": [
+      "It might be because your mind is too busy at night.",
+      "Trying to relax and clear your thoughts can help."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "trouble sleeping"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What makes me wake up in the middle of the night?",
+    "response": [
+      "Loud sounds, bright lights, or worries can wake you up.",
+      "Keeping your room quiet and dark might help."
+    ],
+    "category": "sleep issues",
+    "tags": ["waking up", "disruption"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does using my phone before bed affect my sleep?",
+    "response": [
+      "The light from your phone can trick your brain into staying awake.",
+      "Turning off screens before bed can make it easier to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["technology", "blue light"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can drinking coffee late in the day keep me awake?",
+    "response": [
+      "Yes, coffee is a stimulant that can stop you from feeling sleepy.",
+      "Try to avoid coffee in the afternoon or evening."
+    ],
+    "category": "sleep issues",
+    "tags": ["caffeine", "stimulant"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Is it okay to take naps during the day?",
+    "response": [
+      "Short naps can help you feel refreshed.",
+      "Long naps might make it hard to sleep at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["napping", "sleep habits"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I sleep better at night?",
+    "response": [
+      "Try to go to bed at the same time every night.",
+      "A calm routine before bed can help you relax."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep routine", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What causes bad sleep?",
+    "response": [
+      "Bad sleep can be caused by stress, noise, or uncomfortable bedding.",
+      "Making simple changes in your habits may improve your sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["causes", "sleep quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does stress affect my sleep?",
+    "response": [
+      "Stress makes your mind race and keeps you awake.",
+      "Relaxing before bed can help reduce stress and improve sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress", "insomnia"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can noise disturb my sleep?",
+    "response": [
+      "Yes, loud or sudden noises can break your sleep.",
+      "A quiet room or a white noise machine may help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["noise", "disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Does the temperature of my room affect sleep?",
+    "response": [
+      "A room that is too hot or too cold can disturb your sleep.",
+      "Keeping a cool and comfortable temperature helps you sleep well."
+    ],
+    "category": "sleep issues",
+    "tags": ["temperature", "environment"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do bright lights affect my sleep?",
+    "response": [
+      "Bright lights can stop your body from making sleep hormones.",
+      "Dimming the lights before bed can help signal your body to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["light", "melatonin"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What can I do to sleep more soundly?",
+    "response": [
+      "Try to keep a regular sleep schedule and create a quiet space.",
+      "A calm bedtime routine can help you sleep more deeply."
+    ],
+    "category": "sleep issues",
+    "tags": ["sound sleep", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I feel tired even after a full night's sleep?",
+    "response": [
+      "You might not be getting deep sleep or there could be disturbances during the night.",
+      "Improving your sleep environment can help you feel more rested."
+    ],
+    "category": "sleep issues",
+    "tags": ["tiredness", "quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can I make my bedtime routine better?",
+    "response": [
+      "Keep your routine simple and relaxing.",
+      "Doing the same things every night helps signal your body to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "habits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can exercise help me sleep better?",
+    "response": [
+      "Yes, regular exercise can help you fall asleep faster.",
+      "Try to finish exercise a few hours before bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "sleep improvement"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the best time to go to bed?",
+    "response": [
+      "Going to bed at the same time every night is very helpful.",
+      "The best time depends on your daily schedule and sleep needs."
+    ],
+    "category": "sleep issues",
+    "tags": ["bedtime", "routine"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does a regular sleep schedule help?",
+    "response": [
+      "A regular schedule helps your body know when to feel sleepy.",
+      "This makes it easier to fall asleep and wake up refreshed."
+    ],
+    "category": "sleep issues",
+    "tags": ["schedule", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why is my mind too active at bedtime?",
+    "response": [
+      "Worrying or thinking about the day can keep your mind busy.",
+      "Writing down your thoughts before bed might help calm your mind."
+    ],
+    "category": "sleep issues",
+    "tags": ["overthinking", "insomnia"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can reading before bed help me sleep?",
+    "response": [
+      "Reading a book can help distract your mind from worries.",
+      "It is a good way to relax and prepare for sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["reading", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does watching TV affect sleep?",
+    "response": [
+      "Watching TV, especially action-packed shows, can keep your mind alert.",
+      "It is better to choose calm, quiet programs or turn it off before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["TV", "screen time"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Does using a computer late at night affect sleep?",
+    "response": [
+      "Yes, the light and activity from a computer can make it hard to sleep.",
+      "Try to stop using the computer at least one hour before bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["computer", "blue light"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the role of melatonin in sleep?",
+    "response": [
+      "Melatonin is a hormone that helps control your sleep cycle.",
+      "It is released when it gets dark, helping you feel sleepy."
+    ],
+    "category": "sleep issues",
+    "tags": ["melatonin", "hormone"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can taking a warm bath help me sleep?",
+    "response": [
+      "A warm bath can relax your muscles and calm your mind.",
+      "This makes it easier for you to fall asleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["bath", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does heavy eating before bed affect sleep?",
+    "response": [
+      "Eating a big meal before bed can make you feel uncomfortable.",
+      "It is better to eat a light snack if you are hungry at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["eating", "diet"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can spicy food keep me awake at night?",
+    "response": [
+      "Spicy food can cause heartburn and make it hard to sleep.",
+      "It is best to avoid spicy meals close to bedtime."
+    ],
+    "category": "sleep issues",
+    "tags": ["spicy food", "diet"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Does alcohol help me sleep well?",
+    "response": [
+      "Alcohol might make you feel sleepy at first, but it can disrupt your sleep later.",
+      "It often leads to lighter and more broken sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["alcohol", "sleep quality"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the signs of poor sleep?",
+    "response": [
+      "You might feel tired during the day and have trouble concentrating.",
+      "Mood swings and a heavy feeling in the morning can also be signs."
+    ],
+    "category": "sleep issues",
+    "tags": ["symptoms", "quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does sleep help my body recover?",
+    "response": [
+      "Sleep gives your body time to repair itself and restore energy.",
+      "It helps your muscles, brain, and other parts of your body recover."
+    ],
+    "category": "sleep issues",
+    "tags": ["recovery", "health"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is sleep quality?",
+    "response": [
+      "Sleep quality means how well you sleep through the night.",
+      "Good sleep quality leaves you feeling rested and alert in the morning."
+    ],
+    "category": "sleep issues",
+    "tags": ["quality", "definition"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can meditation help me sleep?",
+    "response": [
+      "Meditation can calm your mind and help you relax.",
+      "It may make it easier to fall asleep and improve your sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["meditation", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does worry stop me from sleeping?",
+    "response": [
+      "Worry can make your mind race, keeping you awake.",
+      "Finding ways to calm your thoughts can help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["worry", "insomnia"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can counting sheep help me sleep?",
+    "response": [
+      "Counting sheep is a simple trick to distract your mind.",
+      "It may help you fall asleep if you feel restless."
+    ],
+    "category": "sleep issues",
+    "tags": ["trick", "relaxation"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Does reading a book make me sleep better?",
+    "response": [
+      "Reading can help you relax and forget your worries.",
+      "A calm book before bed may help you fall asleep faster."
+    ],
+    "category": "sleep issues",
+    "tags": ["reading", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a quiet room help with sleep?",
+    "response": [
+      "A quiet room reduces disturbances that can wake you up.",
+      "It helps you stay in a deep and restful sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["quiet", "environment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What can I do if I wake up early?",
+    "response": [
+      "Try to relax and enjoy the quiet time if you wake up early.",
+      "Adjusting your bedtime might also help you sleep longer."
+    ],
+    "category": "sleep issues",
+    "tags": ["waking up", "routine"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do soft sounds help me sleep?",
+    "response": [
+      "Soft sounds like gentle music or nature sounds can calm your mind.",
+      "They may help you relax and fall asleep more easily."
+    ],
+    "category": "sleep issues",
+    "tags": ["sounds", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a sleep mask help me sleep?",
+    "response": [
+      "A sleep mask blocks out light that might disturb your sleep.",
+      "It can make your room feel darker and help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep mask", "light"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a comfortable bed affect sleep?",
+    "response": [
+      "A good bed supports your body and helps you sleep soundly.",
+      "Comfortable bedding can reduce aches and make sleep more pleasant."
+    ],
+    "category": "sleep issues",
+    "tags": ["bed", "comfort"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the effects of poor sleep on my mood?",
+    "response": [
+      "Poor sleep can make you feel grumpy and less patient.",
+      "Good sleep helps you wake up in a better mood."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "effects"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep affect my memory?",
+    "response": [
+      "Good sleep helps your brain store and recall information.",
+      "Without enough sleep, you may find it harder to remember things."
+    ],
+    "category": "sleep issues",
+    "tags": ["memory", "brain"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a regular routine help me sleep better?",
+    "response": [
+      "A regular routine tells your body when it is time to sleep.",
+      "Sticking to a schedule can make falling asleep easier."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "habit"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I feel groggy in the morning?",
+    "response": [
+      "Feeling groggy can be a sign of poor sleep quality.",
+      "Improving your sleep habits may help you feel more awake."
+    ],
+    "category": "sleep issues",
+    "tags": ["groggy", "morning"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What can I do if I have nightmares?",
+    "response": [
+      "Nightmares can be scary, but talking about them may help.",
+      "A calm bedtime routine can reduce the chance of bad dreams."
+    ],
+    "category": "sleep issues",
+    "tags": ["nightmares", "solutions"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can relaxation music help me sleep?",
+    "response": [
+      "Soft, slow music can help calm your mind before bed.",
+      "It might help you relax and fall asleep faster."
+    ],
+    "category": "sleep issues",
+    "tags": ["music", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Does having pets in the room affect sleep?",
+    "response": [
+      "Some pets can make noise or move around and disturb your sleep.",
+      "Finding a comfortable sleeping spot for both you and your pet can help."
+    ],
+    "category": "sleep issues",
+    "tags": ["pets", "environment"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does late-night snacking affect sleep?",
+    "response": [
+      "Eating late can upset your stomach and keep you awake.",
+      "Try to finish eating a few hours before bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["snacking", "diet"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can avoiding sugar at night help me sleep?",
+    "response": [
+      "High sugar can give you energy when you want to sleep.",
+      "Eating less sugar in the evening might help you feel sleepy."
+    ],
+    "category": "sleep issues",
+    "tags": ["sugar", "diet"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does daytime sunlight affect my sleep at night?",
+    "response": [
+      "Sunlight helps set your body clock, making it easier to sleep at night.",
+      "Getting enough sunlight during the day can improve your sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sunlight", "circadian"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can using blue light filters help me sleep?",
+    "response": [
+      "Blue light filters can reduce the bright light from screens.",
+      "This helps your body make melatonin so you can sleep easier."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "technology"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What causes sleep problems in children?",
+    "response": [
+      "Children can have sleep problems due to stress, screen time, or bad routines.",
+      "Helping them establish a bedtime routine can improve their sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["children", "sleep habits"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does my mood affect my sleep?",
+    "response": [
+      "A bad mood or anxiety can keep you awake at night.",
+      "Relaxing and calming activities can help improve both your mood and sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "mental health"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can keeping a sleep diary help?",
+    "response": [
+      "Writing down your sleep habits can help you see patterns in your sleep.",
+      "It might help you find simple ways to sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["diary", "tracking"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Why do I feel restless at night?",
+    "response": [
+      "Restlessness can come from stress or too much energy before bed.",
+      "Doing calming activities may help you feel more relaxed."
+    ],
+    "category": "sleep issues",
+    "tags": ["restlessness", "energy"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does anxiety impact my sleep?",
+    "response": [
+      "Anxiety can make your mind race and keep you awake.",
+      "Finding ways to relax can help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["anxiety", "insomnia"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is insomnia in simple words?",
+    "response": [
+      "Insomnia means having trouble falling or staying asleep.",
+      "It can leave you feeling tired during the day."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "definition"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can simple breathing exercises help me sleep?",
+    "response": [
+      "Deep breathing can slow your heart rate and relax your body.",
+      "This may help you fall asleep faster."
+    ],
+    "category": "sleep issues",
+    "tags": ["breathing", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a bedtime story help children sleep?",
+    "response": [
+      "A bedtime story can calm a child's mind and help them relax.",
+      "It sets a routine that signals it is time to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["children", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can dimming the lights make sleep better?",
+    "response": [
+      "Dimming the lights tells your body that it is time to wind down.",
+      "This can help you feel sleepy and ready for bed."
+    ],
+    "category": "sleep issues",
+    "tags": ["lights", "environment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is a good sleep environment?",
+    "response": [
+      "A good sleep environment is quiet, dark, and cool.",
+      "It helps your body relax and sleep well."
+    ],
+    "category": "sleep issues",
+    "tags": ["environment", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a regular bedtime improve sleep?",
+    "response": [
+      "Going to bed at the same time every night helps set your body clock.",
+      "It makes it easier to fall asleep and wake up feeling good."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "bedtime"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do thoughts keep me awake at night?",
+    "response": [
+      "Worrying or overthinking can make it hard for your brain to shut off.",
+      "Finding a way to clear your mind can help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["thoughts", "insomnia"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What can I do to stop late-night worrying?",
+    "response": [
+      "Try writing down your worries before bed to clear your mind.",
+      "Relaxing techniques like deep breathing can also help."
+    ],
+    "category": "sleep issues",
+    "tags": ["worry", "techniques"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a cup of herbal tea help me sleep?",
+    "response": [
+      "Herbal teas like chamomile can help relax your body.",
+      "Drinking a warm cup before bed might make you feel sleepy."
+    ],
+    "category": "sleep issues",
+    "tags": ["herbal tea", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a calm mind help me sleep?",
+    "response": [
+      "A calm mind makes it easier for you to let go of stress.",
+      "This helps you fall asleep faster and sleep more deeply."
+    ],
+    "category": "sleep issues",
+    "tags": ["calm", "mind"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What simple habits can improve sleep?",
+    "response": [
+      "Simple habits like a regular bedtime and a quiet room can help.",
+      "Avoiding screens before bed is also a good idea."
+    ],
+    "category": "sleep issues",
+    "tags": ["habits", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can avoiding heavy meals at night help?",
+    "response": [
+      "Eating less at night can make you more comfortable when you sleep.",
+      "It helps your body focus on resting instead of digesting."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "eating"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does regular sleep help my health?",
+    "response": [
+      "Regular sleep gives your body time to repair and recharge.",
+      "It keeps your mind clear and your body strong."
+    ],
+    "category": "sleep issues",
+    "tags": ["health", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep apps help track my sleep?",
+    "response": [
+      "Sleep apps can show you how well you sleep each night.",
+      "They help you see patterns and make simple changes."
+    ],
+    "category": "sleep issues",
+    "tags": ["apps", "tracking"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is a sleep routine?",
+    "response": [
+      "A sleep routine is a set of activities you do before bed.",
+      "It helps your body know that it is time to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["routine", "habits"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do habits affect sleep quality?",
+    "response": [
+      "Good habits can make your sleep deeper and more restful.",
+      "Bad habits, like using screens late, can hurt your sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["habits", "quality"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can journaling before bed help me sleep?",
+    "response": [
+      "Writing your thoughts down can clear your mind.",
+      "This simple act can help you feel calmer and ready for sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["journaling", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a dark room promote sleep?",
+    "response": [
+      "A dark room signals your body that it is time to rest.",
+      "This can help you fall asleep faster and sleep more deeply."
+    ],
+    "category": "sleep issues",
+    "tags": ["dark", "environment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What simple steps improve sleep?",
+    "response": [
+      "Simple steps like a quiet room and a regular bedtime can make a big difference.",
+      "Small changes in your routine can help you sleep better."
+    ],
+    "category": "sleep issues",
+    "tags": ["steps", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does watching the clock affect sleep?",
+    "response": [
+      "Watching the clock can make you worry about not sleeping.",
+      "It is better to ignore the time and relax until you fall asleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["clock", "anxiety"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can turning off screens early help me sleep?",
+    "response": [
+      "Turning off screens gives your brain time to wind down.",
+      "This can help you fall asleep more naturally."
+    ],
+    "category": "sleep issues",
+    "tags": ["screens", "blue light"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a comfortable pillow affect sleep?",
+    "response": [
+      "A good pillow supports your head and neck.",
+      "This makes it easier to sleep comfortably through the night."
+    ],
+    "category": "sleep issues",
+    "tags": ["pillow", "comfort"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the link between sleep and energy?",
+    "response": [
+      "Good sleep gives you the energy to start a new day.",
+      "Without enough sleep, you might feel tired and sluggish."
+    ],
+    "category": "sleep issues",
+    "tags": ["energy", "benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a relaxed body help me sleep?",
+    "response": [
+      "When your body is relaxed, it is easier for you to fall asleep.",
+      "Relaxation helps reduce muscle tension and stress."
+    ],
+    "category": "sleep issues",
+    "tags": ["relaxation", "body"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can stretching before bed improve sleep?",
+    "response": [
+      "Stretching can ease tension in your muscles.",
+      "It might help you feel more relaxed and ready for sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["stretching", "exercise"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does poor sleep affect my work?",
+    "response": [
+      "Lack of sleep can make it hard to concentrate at work.",
+      "You might feel less motivated and more tired during the day."
+    ],
+    "category": "sleep issues",
+    "tags": ["work", "productivity"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What causes drowsiness in the morning?",
+    "response": [
+      "Not getting enough sleep can make you feel very sleepy in the morning.",
+      "A regular sleep schedule may help you wake up feeling refreshed."
+    ],
+    "category": "sleep issues",
+    "tags": ["morning", "drowsiness"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can a quiet night help me sleep?",
+    "response": [
+      "A quiet night free from disturbances helps you sleep better.",
+      "It gives your mind and body a chance to fully rest."
+    ],
+    "category": "sleep issues",
+    "tags": ["quiet", "environment"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep help my brain rest?",
+    "response": [
+      "Sleep gives your brain time to process the day’s events.",
+      "This rest helps your brain work better the next day."
+    ],
+    "category": "sleep issues",
+    "tags": ["brain", "rest"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What simple changes can fix sleep problems?",
+    "response": [
+      "Small changes like a fixed bedtime and reducing screen time can help.",
+      "Often, these simple steps make a big difference in your sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["changes", "solutions"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep affect my mood the next day?",
+    "response": [
+      "Good sleep can make you feel happy and alert in the morning.",
+      "Poor sleep can lead to irritability and low energy."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "sleep effects"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can a warm drink help me sleep?",
+    "response": [
+      "A warm, non-caffeinated drink can be soothing before bed.",
+      "It might help you relax and signal your body that it is time to sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["warm drink", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the best way to prepare for sleep?",
+    "response": [
+      "A simple routine like dimming the lights and turning off screens can help.",
+      "Doing the same things each night tells your body it is time to rest."
+    ],
+    "category": "sleep issues",
+    "tags": ["preparation", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do simple routines help with sleep?",
+    "response": [
+      "Simple routines make it easier for your body to know when to sleep.",
+      "They can reduce stress and make falling asleep smoother."
+    ],
+    "category": "sleep issues",
+    "tags": ["routines", "habits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can watching nature videos relax me for sleep?",
+    "response": [
+      "Nature videos with calm sounds can help you relax.",
+      "They may create a peaceful mood that makes sleep easier."
+    ],
+    "category": "sleep issues",
+    "tags": ["videos", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does the sound of rain help me sleep?",
+    "response": [
+      "The sound of rain can be very calming and mask other noises.",
+      "It creates a soothing background that may help you sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["rain", "sound"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the benefits of deep sleep?",
+    "response": [
+      "Deep sleep helps your body and brain recover from the day.",
+      "It is important for feeling rested and for good health."
+    ],
+    "category": "sleep issues",
+    "tags": ["deep sleep", "benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep improve my concentration?",
+    "response": [
+      "A good night’s sleep helps clear your mind for better focus.",
+      "You are more alert and can think more clearly after enough sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["concentration", "benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a sleep timer on my devices help me sleep?",
+    "response": [
+      "Setting a sleep timer can automatically turn off devices.",
+      "This helps reduce distractions and can improve your sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep timer", "technology"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does a regular wake-up time help me sleep?",
+    "response": [
+      "Waking up at the same time every day sets your body’s clock.",
+      "It makes it easier for you to fall asleep at night."
+    ],
+    "category": "sleep issues",
+    "tags": ["wake-up", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What simple habits keep my sleep on track?",
+    "response": [
+      "Simple habits like a fixed bedtime and a quiet room can make a big difference.",
+      "These habits help your body know when it is time to rest."
+    ],
+    "category": "sleep issues",
+    "tags": ["habits", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep help me feel better?",
+    "response": [
+      "Good sleep can boost your mood and energy for the day.",
+      "It helps your body recover and keeps you healthy."
+    ],
+    "category": "sleep issues",
+    "tags": ["health", "benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can a calm bedtime ritual improve sleep?",
+    "response": [
+      "A calm bedtime ritual helps signal your body to relax.",
+      "It can include activities like reading or gentle music."
+    ],
+    "category": "sleep issues",
+    "tags": ["ritual", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep affect my overall health?",
+    "response": [
+      "Sleep is important for your body to heal and work properly.",
+      "Good sleep helps keep you healthy and strong."
+    ],
+    "category": "sleep issues",
+    "tags": ["health", "benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are easy ways to fix sleep problems?",
+    "response": [
+      "Simple fixes like a regular sleep schedule and less screen time can help.",
+      "Small changes in your routine can make your sleep much better."
+    ],
+    "category": "sleep issues",
+    "tags": ["solutions", "tips"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How can I get a good night's sleep every day?",
+    "response": [
+      "Stick to a routine and create a calm, dark room.",
+      "Avoid caffeine and screens before bed to help you sleep well."
+    ],
+    "category": "sleep issues",
+    "tags": ["good sleep", "routine"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the long-term effects of chronic sleep deprivation on the brain?",
+    "response": [
+      "Chronic sleep deprivation can impair memory, cognitive function, and emotional regulation.",
+      "Over time, it may increase the risk of neurodegenerative diseases."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic sleep", "brain health", "neurodegeneration"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep quality affect hormone regulation?",
+    "response": [
+      "Good sleep helps balance hormones like cortisol, insulin, and ghrelin.",
+      "Poor sleep can lead to hormonal imbalances that affect stress, appetite, and metabolism."
+    ],
+    "category": "sleep issues",
+    "tags": ["hormones", "metabolism"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the connection between sleep disorders and depression?",
+    "response": [
+      "Sleep disorders often contribute to mood disturbances and can worsen depression.",
+      "Improving sleep quality may help alleviate some symptoms of depression."
+    ],
+    "category": "sleep issues",
+    "tags": ["depression", "mood"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the risks of untreated sleep apnea?",
+    "response": [
+      "Untreated sleep apnea increases the risk of heart disease, high blood pressure, and stroke.",
+      "It can also lead to daytime fatigue and impaired cognitive function."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep apnea", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep quality affect cognitive function?",
+    "response": [
+      "Good sleep supports memory consolidation, focus, and overall brain performance.",
+      "Poor sleep can slow cognitive processes and impair decision-making."
+    ],
+    "category": "sleep issues",
+    "tags": ["cognition", "memory"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can improving sleep reduce the risk of chronic diseases?",
+    "response": [
+      "Better sleep can help lower the risk of obesity, diabetes, and cardiovascular issues.",
+      "Restorative sleep supports overall health and reduces inflammation."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic disease", "health benefits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the impact of circadian rhythm disruption on overall health?",
+    "response": [
+      "Disruptions in circadian rhythm can lead to metabolic imbalances and increased stress.",
+      "They are also linked to mood disorders and a higher risk of chronic illnesses."
+    ],
+    "category": "sleep issues",
+    "tags": ["circadian rhythm", "health risks"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How can sleep tracking data improve sleep interventions?",
+    "response": [
+      "Sleep tracking devices provide insights into sleep patterns and disturbances.",
+      "This data can help tailor personalized strategies to improve sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep tracking", "technology"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep affect emotional regulation?",
+    "response": [
+      "Adequate sleep helps maintain a balanced mood and improves stress management.",
+      "Poor sleep can lead to increased irritability and difficulty managing emotions."
+    ],
+    "category": "sleep issues",
+    "tags": ["emotional regulation", "mood"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What role do lifestyle choices play in sleep quality?",
+    "response": [
+      "Daily habits such as diet, exercise, and screen time significantly affect sleep quality.",
+      "Adopting healthier lifestyle choices can lead to more restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["lifestyle", "habits"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the underlying biological mechanisms of sleep regulation?",
+    "response": [
+      "Sleep is regulated by complex interactions between hormones, neural circuits, and the circadian clock.",
+      "Understanding these mechanisms can lead to better treatments for sleep disorders."
+    ],
+    "category": "sleep issues",
+    "tags": ["biology", "mechanisms"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How do sleep medications affect sleep architecture?",
+    "response": [
+      "Some sleep medications help initiate sleep but can alter the natural stages of sleep.",
+      "Long-term use may affect the balance between REM and non-REM sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["medication", "sleep architecture"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the role of REM sleep in learning and memory?",
+    "response": [
+      "REM sleep is crucial for processing emotions and consolidating memories.",
+      "It plays an important role in learning new information and problem-solving."
+    ],
+    "category": "sleep issues",
+    "tags": ["REM sleep", "memory", "learning"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does stress management impact sleep recovery?",
+    "response": [
+      "Effective stress management can shorten the time it takes to fall asleep and improve sleep depth.",
+      "Reducing stress helps the body recover more efficiently during sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["stress management", "recovery"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can sleep quality be an indicator of mental health?",
+    "response": [
+      "Sleep quality is closely linked to mental health, with poor sleep often preceding mood disorders.",
+      "Monitoring sleep can provide early signs of mental health challenges."
+    ],
+    "category": "sleep issues",
+    "tags": ["mental health", "indicator"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does environmental noise contribute to sleep fragmentation?",
+    "response": [
+      "Frequent or sudden noises can break up sleep, preventing continuous, restorative rest.",
+      "Reducing noise with soundproofing or white noise can improve sleep continuity."
+    ],
+    "category": "sleep issues",
+    "tags": ["environment", "noise"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the consequences of shift work on sleep health?",
+    "response": [
+      "Shift work can disrupt the natural sleep-wake cycle, leading to chronic sleep debt.",
+      "This disruption increases the risk of metabolic, cardiovascular, and mood disorders."
+    ],
+    "category": "sleep issues",
+    "tags": ["shift work", "circadian disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How can sleep studies help diagnose sleep disorders?",
+    "response": [
+      "Sleep studies monitor various physiological parameters during sleep to diagnose disorders.",
+      "They provide detailed insights into sleep stages and disturbances."
+    ],
+    "category": "sleep issues",
+    "tags": ["diagnosis", "sleep study"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What genetic factors influence sleep patterns?",
+    "response": [
+      "Genetic variations can affect how long and how well a person sleeps.",
+      "Research in this area helps understand individual differences in sleep needs."
+    ],
+    "category": "sleep issues",
+    "tags": ["genetics", "sleep patterns"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "What is the impact of technology use on adolescent sleep?",
+    "response": [
+      "Excessive technology use can delay sleep onset and reduce sleep quality in adolescents.",
+      "It often disrupts natural sleep patterns during critical developmental periods."
+    ],
+    "category": "sleep issues",
+    "tags": ["technology", "adolescents"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does social isolation affect sleep quality?",
+    "response": [
+      "Social isolation can lead to stress and anxiety, which in turn disrupt sleep.",
+      "Positive social interactions are important for maintaining good sleep health."
+    ],
+    "category": "sleep issues",
+    "tags": ["social isolation", "mental health"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "Can diet modifications improve sleep quality?",
+    "response": [
+      "A balanced diet with sleep-promoting nutrients can support better sleep.",
+      "Avoiding heavy meals and stimulants before bed is key to improved sleep quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "nutrition"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does physical activity improve sleep architecture?",
+    "response": [
+      "Regular exercise helps regulate the sleep cycle and increases deep sleep stages.",
+      "It also reduces stress, which can lead to better overall sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["exercise", "sleep architecture"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the relationship between sleep duration and longevity?",
+    "response": [
+      "Studies show that both short and long sleep durations are linked to higher mortality risks.",
+      "A consistent, adequate sleep duration is important for long-term health."
+    ],
+    "category": "sleep issues",
+    "tags": ["longevity", "duration"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does sleep affect metabolism?",
+    "response": [
+      "Sleep regulates hormones that control hunger and metabolism.",
+      "Poor sleep can lead to metabolic imbalances and weight gain."
+    ],
+    "category": "sleep issues",
+    "tags": ["metabolism", "hormones"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What is the connection between sleep disturbances and obesity?",
+    "response": [
+      "Sleep disturbances can alter appetite hormones, leading to overeating.",
+      "This imbalance is linked to a higher risk of developing obesity."
+    ],
+    "category": "sleep issues",
+    "tags": ["obesity", "disturbances"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep quality affect the immune response?",
+    "response": [
+      "Quality sleep is essential for a strong immune system.",
+      "Poor sleep can weaken immunity, making the body more susceptible to illness."
+    ],
+    "category": "sleep issues",
+    "tags": ["immune response", "health"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the effects of sleep disruption on mood regulation?",
+    "response": [
+      "Interrupted sleep can lead to increased irritability and mood swings.",
+      "Consistent sleep helps maintain stable emotional health."
+    ],
+    "category": "sleep issues",
+    "tags": ["mood", "disruption"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep contribute to recovery from illness?",
+    "response": [
+      "Sleep is a critical time for the body to repair and fight infections.",
+      "Adequate sleep speeds up the recovery process during illness."
+    ],
+    "category": "sleep issues",
+    "tags": ["recovery", "illness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the effect of aging on sleep cycles?",
+    "response": [
+      "As people age, they may experience lighter and more fragmented sleep.",
+      "Older adults often have earlier sleep times and more awakenings during the night."
+    ],
+    "category": "sleep issues",
+    "tags": ["aging", "sleep cycles"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How does meditation improve sleep quality?",
+    "response": [
+      "Meditation can reduce stress and calm the mind before bedtime.",
+      "Regular practice often leads to deeper and more restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["meditation", "relaxation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the relationship between sleep quality and work performance?",
+    "response": [
+      "Good sleep enhances concentration, creativity, and overall work productivity.",
+      "Poor sleep can lead to mistakes, reduced focus, and lower job performance."
+    ],
+    "category": "sleep issues",
+    "tags": ["work performance", "cognition"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How do sleep disorders impact quality of life?",
+    "response": [
+      "Sleep disorders can significantly reduce daily functioning and overall well-being.",
+      "Treating sleep problems often improves both physical and mental quality of life."
+    ],
+    "category": "sleep issues",
+    "tags": ["quality of life", "disorders"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep timing influence mental alertness?",
+    "response": [
+      "Consistent sleep timing helps align the body clock for better alertness during the day.",
+      "Irregular sleep schedules can lead to grogginess and reduced mental clarity."
+    ],
+    "category": "sleep issues",
+    "tags": ["sleep timing", "alertness"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "Can cognitive behavioral therapy improve sleep?",
+    "response": [
+      "Cognitive behavioral therapy (CBT) helps address negative thought patterns that disrupt sleep.",
+      "It is a proven, long-term treatment for chronic insomnia."
+    ],
+    "category": "sleep issues",
+    "tags": ["CBT", "therapy"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the benefits of sleep hygiene education?",
+    "response": [
+      "Sleep hygiene education teaches practical ways to improve sleep routines and environments.",
+      "Better sleep hygiene leads to more consistent and restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["education", "sleep hygiene"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does blue light exposure impact sleep hormones?",
+    "response": [
+      "Blue light from screens suppresses melatonin, the hormone that signals sleep.",
+      "Reducing blue light exposure in the evening can help maintain normal sleep patterns."
+    ],
+    "category": "sleep issues",
+    "tags": ["blue light", "hormones"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does sleep affect reaction time?",
+    "response": [
+      "Adequate sleep improves reaction time and coordination.",
+      "Sleep deprivation can slow your responses and impair motor skills."
+    ],
+    "category": "sleep issues",
+    "tags": ["reaction time", "performance"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the economic impacts of poor sleep?",
+    "response": [
+      "Poor sleep can lead to decreased productivity and higher healthcare costs.",
+      "It affects both individual performance and overall economic output."
+    ],
+    "category": "sleep issues",
+    "tags": ["economics", "productivity"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does insomnia affect daily functioning?",
+    "response": [
+      "Insomnia can lead to difficulty concentrating, fatigue, and mood changes.",
+      "These effects often interfere with work, social interactions, and overall quality of life."
+    ],
+    "category": "sleep issues",
+    "tags": ["insomnia", "daily life"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the best practices for diagnosing sleep disorders?",
+    "response": [
+      "Diagnosis typically involves sleep studies, patient history, and symptom tracking.",
+      "Accurate diagnosis is key to selecting an effective treatment plan."
+    ],
+    "category": "sleep issues",
+    "tags": ["diagnosis", "best practices"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "Can improved sleep lead to better academic performance?",
+    "response": [
+      "Better sleep enhances concentration, memory, and learning ability.",
+      "Students with regular, high-quality sleep often perform better academically."
+    ],
+    "category": "sleep issues",
+    "tags": ["academic performance", "students"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does sleep influence creativity?",
+    "response": [
+      "Sleep, especially REM sleep, plays a role in processing and integrating information.",
+      "This process can lead to enhanced creativity and problem-solving skills."
+    ],
+    "category": "sleep issues",
+    "tags": ["creativity", "REM sleep"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What role does genetics play in sleep disorders?",
+    "response": [
+      "Genetic factors can predispose individuals to various sleep disorders.",
+      "Research into genetics helps tailor personalized treatment strategies."
+    ],
+    "category": "sleep issues",
+    "tags": ["genetics", "personalized medicine"],
+    "sentiment": "neutral"
+  },
+  {
+    "question": "How can mindfulness practices enhance sleep quality?",
+    "response": [
+      "Mindfulness helps reduce stress and quiet the mind before bed.",
+      "Regular practice can lead to improvements in sleep onset and quality."
+    ],
+    "category": "sleep issues",
+    "tags": ["mindfulness", "meditation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What are the potential side effects of sleep medications?",
+    "response": [
+      "Sleep medications can cause dependency and alter natural sleep patterns.",
+      "They may also lead to daytime drowsiness and cognitive impairment."
+    ],
+    "category": "sleep issues",
+    "tags": ["medication", "side effects"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "How does the quality of sleep impact emotional stability?",
+    "response": [
+      "Consistent, high-quality sleep supports balanced mood and emotional resilience.",
+      "Poor sleep can contribute to increased emotional volatility and stress."
+    ],
+    "category": "sleep issues",
+    "tags": ["emotional stability", "quality"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "What is the role of diet in sleep regulation?",
+    "response": [
+      "Certain foods can promote sleep while others, like sugary or spicy foods, can disrupt it.",
+      "A balanced diet supports normal hormone levels that regulate sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["diet", "regulation"],
+    "sentiment": "positive"
+  },
+  {
+    "question": "How does chronic pain interfere with sleep?",
+    "response": [
+      "Chronic pain makes it difficult to find a comfortable sleeping position.",
+      "It often leads to frequent awakenings and non-restorative sleep."
+    ],
+    "category": "sleep issues",
+    "tags": ["chronic pain", "interference"],
+    "sentiment": "negative"
+  },
+  {
+    "question": "What are the societal costs of sleep deprivation?",
+    "response": [
+      "Sleep deprivation can lead to higher healthcare costs and reduced workforce productivity.",
+      "It affects overall public health and has economic consequences for society."
+    ],
+    "category": "sleep issues",
+    "tags": ["society", "economics"],
+    "sentiment": "negative"
+  }
+]
+
+
+
+
+
+
+
+
+
