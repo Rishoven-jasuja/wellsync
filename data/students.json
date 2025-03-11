@@ -1,0 +1,2123 @@
+[
+    {
+      "question": "How do I handle exam anxiety?",
+      "response": [
+        "Break your study material into manageable chunks and practice relaxation techniques before exams.",
+        "Try deep breathing and visualization to calm your mind right before the exam starts."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["exam", "test anxiety", "studies"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What strategies can help me manage test anxiety?",
+      "response": [
+        "Develop a regular study schedule and use practice tests to build confidence.",
+        "Engaging in mindfulness exercises and positive self-talk can reduce pre-test jitters."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["test anxiety", "study strategies", "mindfulness"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does academic pressure contribute to my anxiety?",
+      "response": [
+        "Constant pressure to excel can lead to overwhelming stress and anxiety about performance.",
+        "Balancing expectations with realistic goals can help manage this pressure."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["academic pressure", "stress", "performance"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What can I do when I'm overwhelmed with schoolwork?",
+      "response": [
+        "Prioritize your tasks and break them into smaller, achievable goals.",
+        "Consider scheduling regular breaks and practicing relaxation techniques during study sessions."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["schoolwork", "overwhelm", "time management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I improve my concentration during lectures?",
+      "response": [
+        "Use active note-taking and try mindfulness techniques to keep your focus on the present.",
+        "A short breathing exercise before class can help reset your concentration."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["concentration", "lectures", "mindfulness"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome procrastination linked to anxiety?",
+      "response": [
+        "Set clear, achievable deadlines and break tasks into smaller parts to avoid feeling overwhelmed.",
+        "Using techniques like the Pomodoro method can help keep procrastination at bay."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["procrastination", "anxiety", "time management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if I feel anxious about group projects?",
+      "response": [
+        "Communicate openly with your team and divide tasks based on strengths to reduce stress.",
+        "Set up regular meetings to keep everyone on track, which can ease anxiety about collaboration."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["group projects", "social anxiety", "collaboration"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I manage social anxiety on campus?",
+      "response": [
+        "Try gradually exposing yourself to social settings, starting with smaller groups.",
+        "Joining clubs or support groups can help you build confidence in social interactions."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["social anxiety", "campus life", "exposure"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I deal with the pressure from my parents about grades?",
+      "response": [
+        "Communicate your feelings and set realistic expectations with your parents.",
+        "Remember that your worth is not solely determined by your grades; self-care is important too."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["parental pressure", "grades", "communication"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What strategies help me manage anxiety during presentations?",
+      "response": [
+        "Practice your presentation multiple times and use relaxation techniques beforehand.",
+        "Visualize a successful presentation and focus on your message rather than potential judgment."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["presentations", "performance anxiety", "preparation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does anxiety affect my academic performance?",
+      "response": [
+        "Anxiety can impair concentration and memory, making it harder to retain information.",
+        "It may also lead to avoidance of studying and procrastination, negatively impacting your grades."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["academic performance", "anxiety", "concentration"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What role does sleep play in managing student anxiety?",
+      "response": [
+        "A consistent sleep schedule improves mood and cognitive function, helping to reduce anxiety.",
+        "Good sleep hygiene is crucial, as lack of sleep can significantly worsen anxious feelings."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["sleep", "anxiety", "self-care"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can mindfulness reduce my exam anxiety?",
+      "response": [
+        "Mindfulness helps you stay in the present, reducing worries about exam outcomes.",
+        "Practicing mindfulness meditation regularly can lower stress levels leading up to exams."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["mindfulness", "exam anxiety", "stress relief"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What techniques can improve my study habits and reduce anxiety?",
+      "response": [
+        "Establish a structured study schedule, take regular breaks, and use active learning methods.",
+        "Incorporating relaxation techniques like deep breathing during study sessions can also help."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["study habits", "techniques", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I balance academics and extracurricular activities without getting anxious?",
+      "response": [
+        "Plan your time effectively by prioritizing tasks and setting realistic goals for both academics and extracurriculars.",
+        "Remember to schedule downtime for relaxation and self-care to avoid burnout."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["balance", "extracurricular", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I communicate my anxiety to professors?",
+      "response": [
+        "Consider speaking with your professor during office hours and explain how anxiety affects your performance.",
+        "Being honest about your challenges can help them provide support or accommodations when needed."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["communication", "professors", "support"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What support resources are available on campus for students with anxiety?",
+      "response": [
+        "Many campuses offer counseling services, stress management workshops, and peer support groups specifically for students.",
+        "You can also access academic advisors and wellness programs designed to help manage anxiety."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["campus resources", "support", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I overcome procrastination caused by anxiety?",
+      "response": [
+        "Break your tasks into smaller steps and set specific, achievable deadlines.",
+        "Using techniques like time-blocking and reward systems can help overcome procrastination."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["procrastination", "anxiety", "time management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does exercise play in reducing student anxiety?",
+      "response": [
+        "Regular physical activity releases endorphins, which boost mood and reduce anxiety.",
+        "Even short walks or stretching breaks between classes can help manage stress levels."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["exercise", "stress relief", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does social media contribute to my anxiety as a student?",
+      "response": [
+        "Constant comparison and information overload from social media can increase feelings of inadequacy and stress.",
+        "Limiting screen time and curating your feed to include positive content may help lower anxiety."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["social media", "anxiety", "digital"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I build a supportive network at school to manage anxiety?",
+      "response": [
+        "Join clubs, study groups, or peer support networks to connect with others who share similar experiences.",
+        "Having a reliable support system can provide encouragement and practical advice for managing anxiety."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["support network", "peer support", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are some relaxation techniques I can use during study breaks?",
+      "response": [
+        "Techniques such as deep breathing, progressive muscle relaxation, or a short mindfulness meditation can help.",
+        "Listening to calming music or taking a brief walk can also serve as effective stress relievers."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["relaxation", "study breaks", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome anxiety about my future career prospects while in college?",
+      "response": [
+        "Focus on setting realistic, short-term goals and celebrate small achievements along the way.",
+        "Career counseling and mentorship programs can provide guidance and reduce anxiety about the future."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["future", "career", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I use self-care to manage academic stress and anxiety?",
+      "response": [
+        "Establish a routine that includes regular exercise, healthy meals, and sufficient sleep.",
+        "Incorporate activities you enjoy and set aside time to relax and disconnect from academic pressures."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["self-care", "academic stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are the signs of anxiety that I should watch for as a student?",
+      "response": [
+        "Look for symptoms such as constant worry, difficulty concentrating, irritability, and physical signs like headaches or stomachaches.",
+        "Noticing these early signs can help you take steps to manage anxiety before it escalates."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["symptoms", "anxiety", "students"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How can I manage performance anxiety during class discussions?",
+      "response": [
+        "Practice your points ahead of time and remind yourself that it's okay to make mistakes.",
+        "Use deep breathing techniques to calm nerves before speaking in class."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["performance anxiety", "class discussions", "coping"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I balance my academic workload without feeling overwhelmed?",
+      "response": [
+        "Prioritize your tasks by importance and break your work into smaller, manageable segments.",
+        "Use scheduling tools to allocate specific times for study, breaks, and self-care."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["academic workload", "balance", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does time management play in reducing student anxiety?",
+      "response": [
+        "Effective time management reduces stress by ensuring you have enough time for studying, rest, and leisure.",
+        "Structured schedules help prevent last-minute cramming and the anxiety that comes with it."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["time management", "scheduling", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I use positive affirmations to boost my confidence as a student?",
+      "response": [
+        "Positive affirmations can counteract self-doubt and build confidence by reinforcing your strengths.",
+        "Repeat affirmations daily to create a more resilient mindset when facing academic challenges."
+      ],
+      "category": "Student Anxiety",
+      "tags": ["positive affirmations", "confidence", "self-talk"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is student anxiety?",
+      "response": [
+        "Student anxiety is the stress and worry related to school and exams.",
+        "It affects focus and mood during academic life."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["student anxiety", "definition"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "Define student anxiety.",
+      "response": [
+        "Student anxiety means feeling nervous about academic challenges.",
+        "It is common and can affect your performance."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["student anxiety", "definition"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "Explain student anxiety in simple words.",
+      "response": [
+        "It is the worry and stress you feel because of school work.",
+        "It may make you feel tired and distracted."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["student anxiety", "explanation"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "What does student anxiety feel like?",
+      "response": [
+        "It feels like constant worry and pressure about assignments and tests.",
+        "It can make you feel overwhelmed and nervous."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["student anxiety", "feelings"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How does anxiety affect students?",
+      "response": [
+        "It makes it hard to concentrate and study effectively.",
+        "It can lower your confidence and impact your grades."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["impact", "student anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What is academic anxiety?",
+      "response": [
+        "Academic anxiety is the fear and stress related to school performance.",
+        "It often comes from worrying about exams and assignments."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["academic", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "Why do students feel anxious?",
+      "response": [
+        "Students feel anxious due to heavy workload, exams, and high expectations.",
+        "The pressure to perform well often triggers anxiety."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["causes", "student anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How common is anxiety among students?",
+      "response": [
+        "Anxiety is very common among students, affecting many in different ways.",
+        "It is a normal reaction to academic and social pressures."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["prevalence", "student anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "What are the signs of student anxiety?",
+      "response": [
+        "Signs include restlessness, trouble sleeping, and difficulty concentrating.",
+        "You might also feel overwhelmed or avoid school work."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["symptoms", "student anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I recognize my own student anxiety?",
+      "response": [
+        "Notice if you often feel nervous, tired, or have a racing heart before exams.",
+        "Frequent worry about school work is a key sign."
+      ],
+      "category": "General Student Anxiety",
+      "tags": ["recognition", "student anxiety"],
+      "sentiment": "neutral"
+    },
+      {
+      "question": "How do I manage exam anxiety?",
+      "response": [
+        "Break your study sessions into short, focused periods with breaks.",
+        "Practice deep breathing to calm your mind before the exam."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["exam", "anxiety", "management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can help me relax before an exam?",
+      "response": [
+        "Try a short meditation or listen to calming music.",
+        "A few minutes of deep breathing can also work wonders."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["relaxation", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I beat exam nerves?",
+      "response": [
+        "Preparation and practice can build your confidence.",
+        "Positive self-talk and relaxation techniques help calm nerves."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["exam nerves", "confidence", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are simple ways to ease exam stress?",
+      "response": [
+        "Plan a study schedule and stick to it.",
+        "Take short breaks and do some deep breathing exercises."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["exam stress", "study", "relaxation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I stay calm during an exam?",
+      "response": [
+        "Focus on one question at a time and breathe slowly.",
+        "Remind yourself that it's okay to take a moment to think."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["calm", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if my heart races during exams?",
+      "response": [
+        "Take a few slow, deep breaths to lower your heart rate.",
+        "Focus on the present moment to ease your racing thoughts."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["heart racing", "exams", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I overcome exam panic?",
+      "response": [
+        "Prepare thoroughly and use relaxation techniques during the test.",
+        "Remind yourself that you are well-prepared and capable."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["panic", "exams", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What quick tip can reduce my exam stress?",
+      "response": [
+        "Try a 4-7-8 breathing exercise for a few minutes.",
+        "Stay hydrated and take a brief walk before the exam."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["quick tip", "exam", "stress"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I stop negative thoughts before an exam?",
+      "response": [
+        "Replace negative thoughts with positive affirmations.",
+        "Focus on your past successes and trust your preparation."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["negative thoughts", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if I freeze during an exam?",
+      "response": [
+        "Take a slow breath and focus on one question at a time.",
+        "Remind yourself that a brief pause can help you regain focus."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["freezing", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I prepare mentally for an exam?",
+      "response": [
+        "Review your material gradually and practice mindfulness.",
+        "Visualize a successful exam to boost your confidence."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["mental preparation", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What causes exam anxiety?",
+      "response": [
+        "High expectations and fear of failure often trigger exam anxiety.",
+        "Lack of preparation and external pressures can also cause stress before tests."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["causes", "exam anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "Why do exams make me feel so anxious?",
+      "response": [
+        "Exams trigger anxiety due to fear of poor performance and judgment.",
+        "They remind you of the pressure to succeed academically."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["why", "exams", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I calm my nerves before a big exam?",
+      "response": [
+        "Practice relaxation techniques and get a good night's sleep.",
+        "Avoid last-minute cramming and trust your study plan."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["nerves", "big exam", "calm"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are quick relaxation tips for exam day?",
+      "response": [
+        "Take a few deep breaths and stretch for a minute.",
+        "Stay hydrated and try a short mindfulness exercise."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["relaxation tips", "exam day", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I build confidence for my exams?",
+      "response": [
+        "Review your notes and practice sample questions to build confidence.",
+        "Positive self-talk and a good study plan boost your self-assurance."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["confidence", "exam", "preparation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage anxiety when exam results are pending?",
+      "response": [
+        "Distract yourself with hobbies or exercise until the results come out.",
+        "Stay positive and remind yourself that one exam does not define your future."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["results", "waiting", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if exam anxiety is overwhelming?",
+      "response": [
+        "Talk to a counselor or trusted teacher about your anxiety.",
+        "Consider relaxation techniques and adjusting your study routine for better balance."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["overwhelming", "help", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I recover quickly from exam stress?",
+      "response": [
+        "Take a break and engage in a fun activity after the exam.",
+        "Reflect on what went well and use it as a learning experience."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["recovery", "exam stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I focus on one exam at a time?",
+      "response": [
+        "Concentrate solely on the exam you are taking and avoid thinking about others.",
+        "Use mindfulness to stay present and calm your mind."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["focus", "one exam", "mindfulness"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I reduce exam anxiety with proper planning?",
+      "response": [
+        "Plan your study schedule early and stick to it.",
+        "A well-organized plan reduces last-minute stress and anxiety."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["planning", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I deal with fear of failing an exam?",
+      "response": [
+        "Remember that one exam does not define your worth.",
+        "Focus on doing your best and learn from the experience."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["fear of failure", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does positive visualization play before an exam?",
+      "response": [
+        "Positive visualization helps calm your mind by imagining success.",
+        "It boosts confidence and reduces anxiety before an exam."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["visualization", "confidence", "exam"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I use mindfulness to overcome exam stress?",
+      "response": [
+        "Practice short mindfulness exercises to keep your focus on the present.",
+        "This reduces worry about the outcome and eases exam stress."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["mindfulness", "exam stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I stop comparing my exam performance with others?",
+      "response": [
+        "Focus on your own progress and remind yourself that everyone has a different pace.",
+        "Avoid comparisons and celebrate your personal improvements."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["comparison", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I maintain calm during exam breaks?",
+      "response": [
+        "Use breaks to stretch, take deep breaths, or listen to soothing music.",
+        "Short, relaxing activities help you recharge without stress."
+      ],
+      "category": "Exam Anxiety",
+      "tags": ["breaks", "calm", "exam"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I manage test anxiety?",
+      "response": [
+        "Review your material gradually and practice sample tests.",
+        "Use relaxation techniques to calm your nerves before the test."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["test", "anxiety", "management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What causes test anxiety?",
+      "response": [
+        "Test anxiety is often caused by fear of failure and high expectations.",
+        "It may also come from past negative test experiences."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["causes", "test", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I calm down before a test?",
+      "response": [
+        "Take a few deep breaths and think positive thoughts.",
+        "A quick mindfulness exercise can help clear your mind."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["calm", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are simple ways to ease test nervousness?",
+      "response": [
+        "Organize your study notes and practice relaxation for a few minutes.",
+        "Remind yourself that you have prepared well."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["nervousness", "test", "relaxation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I handle the pressure of test day?",
+      "response": [
+        "Stick to your planned routine and take breaks when needed.",
+        "Keep a positive mindset and avoid overthinking the outcome."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["pressure", "test day", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if I feel overwhelmed during a test?",
+      "response": [
+        "Pause for a moment, take deep breaths, and refocus on the question.",
+        "Remember that it’s okay to ask for a brief break if needed."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["overwhelmed", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I boost my confidence before a test?",
+      "response": [
+        "Review your strongest subjects first to build confidence.",
+        "Use positive affirmations to remind yourself of your abilities."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["confidence", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome test-related negative thoughts?",
+      "response": [
+        "Challenge negative thoughts with positive ones and focus on your progress.",
+        "Remind yourself that one test does not define you."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["negative thoughts", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I avoid procrastination before tests?",
+      "response": [
+        "Break your study sessions into small, timed intervals.",
+        "Use a planner to schedule your study time and stick to it."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["procrastination", "test", "study"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What short breaks help reduce test anxiety?",
+      "response": [
+        "Take a 5-minute walk or do some stretching between study sessions.",
+        "A quick meditation break can also lower your stress."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["breaks", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I prepare mentally for a test?",
+      "response": [
+        "Visualize yourself successfully completing the test.",
+        "A calm mind is built through steady practice and proper sleep."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["mental preparation", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if I blank during a test?",
+      "response": [
+        "Take a deep breath and focus on another question first.",
+        "Remind yourself that it is normal to have a brief blank and move on."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["blanking", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage time during a test?",
+      "response": [
+        "Keep an eye on the clock and pace yourself.",
+        "Answer easier questions first to build momentum."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["time management", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What quick tip can ease test anxiety?",
+      "response": [
+        "Focus on your breathing for 30 seconds to reset your mind.",
+        "A brief pause can help you regain control."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["quick tip", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does group study affect test anxiety?",
+      "response": [
+        "Studying in a group can provide support and reduce anxiety through shared knowledge.",
+        "It also helps to clarify doubts and build confidence."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["group study", "test", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome fear of difficult test questions?",
+      "response": [
+        "Remind yourself that you can always skip and return later.",
+        "Focus on answering the questions you know well first."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["fear", "difficult questions", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does regular review help with test anxiety?",
+      "response": [
+        "Regular review builds familiarity and reduces last-minute stress.",
+        "It reinforces your knowledge and boosts confidence before tests."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["review", "preparation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I reduce test anxiety on the day of the exam?",
+      "response": [
+        "Avoid cramming; trust your preparation and relax.",
+        "Engage in a short mindfulness exercise before entering the exam room."
+      ],
+      "category": "Test Anxiety",
+      "tags": ["day of exam", "relaxation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How does academic pressure cause anxiety?",
+      "response": [
+        "High expectations and constant workload can lead to overwhelming stress.",
+        "This pressure makes it hard to relax and focus on studies."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["academic pressure", "stress", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How do I cope with academic stress?",
+      "response": [
+        "Break your work into smaller tasks and take regular breaks.",
+        "Talk to someone if the pressure feels too high."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["coping", "academic stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are the signs that academic pressure is affecting me?",
+      "response": [
+        "You may feel overwhelmed, have trouble sleeping, or lose interest in your studies.",
+        "Frequent headaches and irritability are also common signs."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["signs", "academic pressure", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I reduce the pressure of assignments?",
+      "response": [
+        "Plan your work in advance and set realistic goals for each task.",
+        "Avoid last-minute rush by starting assignments early."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["assignments", "planning", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What strategies help manage deadlines?",
+      "response": [
+        "Use a calendar to organize deadlines and prioritize tasks.",
+        "Break projects into smaller steps to make them more manageable."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["deadlines", "time management", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I deal with fear of poor grades?",
+      "response": [
+        "Focus on learning rather than just grades.",
+        "Remember that mistakes are part of the learning process."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["grades", "fear", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does perfectionism add to academic stress?",
+      "response": [
+        "Perfectionism can make you worry excessively about every detail.",
+        "It often leads to burnout and anxiety about not being good enough."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["perfectionism", "stress", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I manage high expectations from teachers?",
+      "response": [
+        "Communicate your concerns and ask for clear guidelines.",
+        "Set personal realistic goals to balance external expectations."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["teachers", "expectations", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is the impact of academic overload on my anxiety?",
+      "response": [
+        "Too much work can make you feel overwhelmed and stressed.",
+        "It often leads to burnout and higher anxiety levels."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["academic overload", "burnout", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How do I balance multiple subjects without feeling anxious?",
+      "response": [
+        "Create a study schedule that allocates time for each subject.",
+        "Prioritize topics based on your strengths and weaknesses."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["balance", "subjects", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What simple habit can reduce academic pressure?",
+      "response": [
+        "Taking a 10-minute break every hour can help you stay focused.",
+        "A short walk or breathing exercise can refresh your mind."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["habit", "academic pressure", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do study groups help reduce academic stress?",
+      "response": [
+        "Study groups allow you to share the workload and learn from peers.",
+        "They offer support and can make studying feel less isolating."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["study groups", "support", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is a quick way to destress after a heavy study session?",
+      "response": [
+        "Try listening to your favorite music or doing a brief relaxation exercise.",
+        "Even a few minutes of deep breathing can lower stress."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["destress", "study session", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I prevent burnout from constant studying?",
+      "response": [
+        "Schedule regular breaks and leisure time into your day.",
+        "Balancing study with hobbies helps prevent burnout and anxiety."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["burnout", "studying", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does setting realistic goals reduce academic anxiety?",
+      "response": [
+        "Realistic goals help you focus on achievable steps rather than perfection.",
+        "They reduce the pressure of high expectations and lower anxiety."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["realistic goals", "academic", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does self-reflection play in managing academic pressure?",
+      "response": [
+        "Self-reflection helps you understand your limits and adjust your study habits.",
+        "It encourages a balanced approach to academics, reducing stress."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["self-reflection", "management", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome the pressure of constant assignments?",
+      "response": [
+        "Break assignments into smaller tasks and tackle them one by one.",
+        "Stay organized and don’t hesitate to ask for help when needed."
+      ],
+      "category": "Academic Pressure",
+      "tags": ["assignments", "pressure", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I deal with social anxiety on campus?",
+      "response": [
+        "Start by joining small groups or clubs to build your confidence.",
+        "Practice deep breathing when you feel nervous in social settings."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["social", "campus", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What causes social anxiety in college?",
+      "response": [
+        "Fear of judgment and not fitting in are common causes.",
+        "High expectations and social pressure can also contribute."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["causes", "college", "social anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How can I build confidence in social situations?",
+      "response": [
+        "Practice small interactions and gradually join larger groups.",
+        "Positive self-talk and supportive friends can boost your confidence."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["confidence", "social", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What tips can help reduce social anxiety at parties?",
+      "response": [
+        "Go with a friend for support and set small goals like starting one conversation.",
+        "Focus on enjoying the moment rather than worrying about judgment."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["parties", "tips", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome shyness in group settings?",
+      "response": [
+        "Practice speaking up in smaller groups and gradually expand your circle.",
+        "Remember that everyone feels nervous sometimes and be kind to yourself."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["shyness", "group", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are simple techniques to calm social anxiety?",
+      "response": [
+        "Deep breathing and mindfulness exercises can quickly calm nerves.",
+        "Focus on listening rather than speaking to ease anxiety in conversations."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["calm", "techniques", "social anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does social media affect my social anxiety?",
+      "response": [
+        "Comparing yourself to others on social media can increase anxiety.",
+        "Taking breaks from social media helps maintain a healthier mindset."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["social media", "comparison", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How do I make new friends when I feel anxious?",
+      "response": [
+        "Join clubs or interest groups where you share common interests.",
+        "Start small with one-on-one conversations to build connections gradually."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["making friends", "anxiety", "social"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I handle peer pressure in social settings?",
+      "response": [
+        "Learn to say no and stand by your values.",
+        "Discuss your feelings with someone you trust for support."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["peer pressure", "social", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What should I do if I feel overwhelmed at a social event?",
+      "response": [
+        "Step outside for a few minutes to breathe and regroup.",
+        "Find a quiet corner until you feel ready to join the group again."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["overwhelmed", "social event", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I improve my social skills despite anxiety?",
+      "response": [
+        "Practice small talk and active listening with classmates.",
+        "Consider joining a public speaking or social skills workshop."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["social skills", "improvement", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does fear of rejection fuel my social anxiety?",
+      "response": [
+        "Fear of rejection makes you overly cautious in social interactions.",
+        "Understanding that rejection is normal can help ease this anxiety."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["rejection", "fear", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "What is the impact of social anxiety on group work?",
+      "response": [
+        "Social anxiety may make group work challenging due to fear of speaking up.",
+        "Working in small groups or with supportive peers can ease this burden."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["group work", "impact", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I use humor to ease social anxiety?",
+      "response": [
+        "A lighthearted attitude and laughter can reduce tension in social settings.",
+        "Don’t be afraid to smile and share a funny story to break the ice."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["humor", "ease", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I stop worrying about what others think of me?",
+      "response": [
+        "Focus on your own values and strengths rather than external opinions.",
+        "Practice mindfulness to keep your thoughts centered on yourself."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["worry", "others", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I overcome shyness during class discussions?",
+      "response": [
+        "Prepare your points ahead of time and practice with friends.",
+        "Start by contributing small comments and gradually build your confidence."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["shyness", "class discussions", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage anxiety when meeting new people?",
+      "response": [
+        "Take deep breaths and remind yourself that it’s normal to feel nervous.",
+        "Focus on listening and asking questions to ease the conversation."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["new people", "introduction", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome anxiety about social invitations?",
+      "response": [
+        "Accept invitations even if you feel nervous; it helps you grow.",
+        "Start with smaller gatherings and gradually attend larger events."
+      ],
+      "category": "Social Anxiety",
+      "tags": ["invitations", "social", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I handle anxiety during group projects?",
+      "response": [
+        "Communicate clearly with your group and set clear roles.",
+        "Focus on your contribution and ask for help when needed."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["group project", "anxiety", "communication"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if I feel overwhelmed by group work?",
+      "response": [
+        "Break the project into smaller tasks and discuss them with your group.",
+        "Sharing responsibilities can lessen the burden and reduce anxiety."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["overwhelmed", "group work", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I contribute effectively in a group project?",
+      "response": [
+        "Prepare your part in advance and share ideas openly.",
+        "Trust your team and focus on collaboration."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["contribution", "group project", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome fear of speaking up in group projects?",
+      "response": [
+        "Practice your ideas beforehand and start with small comments.",
+        "Remember that your input is valuable to the team."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["speaking up", "group project", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I reduce stress when working in teams?",
+      "response": [
+        "Set clear deadlines and distribute tasks evenly.",
+        "Regular check-ins with the team can ease stress and boost cooperation."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["stress", "teams", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if my team is uncooperative?",
+      "response": [
+        "Speak to your teammates and try to understand their perspectives.",
+        "If needed, discuss the issue with a teacher or project supervisor."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["uncooperative", "team", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I manage conflicts in group projects?",
+      "response": [
+        "Address conflicts early by discussing issues openly and calmly.",
+        "Focus on solutions and compromise to resolve differences."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["conflict", "group", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I improve communication in group projects?",
+      "response": [
+        "Set regular meetings and use clear, respectful language.",
+        "Active listening and giving feedback can improve team communication."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["communication", "group", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does sharing responsibilities reduce project anxiety?",
+      "response": [
+        "Dividing tasks fairly helps manage workload and reduce stress.",
+        "It allows everyone to contribute and feel less overwhelmed."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["responsibilities", "group", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I stay organized in group assignments?",
+      "response": [
+        "Use shared calendars and task lists to keep everyone on track.",
+        "Regular updates help maintain organization and reduce anxiety."
+      ],
+      "category": "Group Project Anxiety",
+      "tags": ["organization", "group", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I stop procrastinating on assignments?",
+      "response": [
+        "Break assignments into small steps and set mini-deadlines.",
+        "Start with the easiest task to build momentum."
+      ],
+      "category": "Time Management",
+      "tags": ["procrastination", "assignments", "time management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What tips can improve my time management?",
+      "response": [
+        "Use a planner or calendar to schedule your tasks.",
+        "Prioritize tasks and take regular breaks."
+      ],
+      "category": "Time Management",
+      "tags": ["time management", "tips", "organization"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I create a study schedule?",
+      "response": [
+        "List your subjects and allocate specific time slots for each.",
+        "Stick to your plan and adjust as needed."
+      ],
+      "category": "Time Management",
+      "tags": ["study schedule", "planning", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is the Pomodoro Technique?",
+      "response": [
+        "It is a time management method where you study for 25 minutes and take a 5-minute break.",
+        "This cycle helps maintain focus and reduce burnout."
+      ],
+      "category": "Time Management",
+      "tags": ["Pomodoro", "technique", "time management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome procrastination when stressed?",
+      "response": [
+        "Set a timer for a short period and start working immediately.",
+        "Even a few minutes of focused work can break the cycle of procrastination."
+      ],
+      "category": "Time Management",
+      "tags": ["procrastination", "stress", "management"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What daily habit can improve my time management?",
+      "response": [
+        "Plan your day the night before and set clear priorities.",
+        "Review your progress each evening and adjust as needed."
+      ],
+      "category": "Time Management",
+      "tags": ["daily habit", "planning", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I balance study time with leisure?",
+      "response": [
+        "Schedule breaks and leisure activities along with study sessions.",
+        "A balanced schedule prevents burnout and keeps anxiety in check."
+      ],
+      "category": "Time Management",
+      "tags": ["balance", "study", "leisure"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I avoid last-minute cramming?",
+      "response": [
+        "Start studying well before exams and break the material into parts.",
+        "A consistent study schedule reduces the need for last-minute efforts."
+      ],
+      "category": "Time Management",
+      "tags": ["cramming", "study", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage time during exam week?",
+      "response": [
+        "Plan your study sessions, include breaks, and maintain a regular sleep schedule.",
+        "Avoid overloading by focusing on one exam at a time."
+      ],
+      "category": "Time Management",
+      "tags": ["exam week", "time management", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do to stay organized with multiple deadlines?",
+      "response": [
+        "Use a digital calendar or planner to track all your deadlines.",
+        "Prioritize tasks and tackle them one by one."
+      ],
+      "category": "Time Management",
+      "tags": ["organization", "deadlines", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does effective planning reduce academic anxiety?",
+      "response": [
+        "Effective planning creates structure and reduces uncertainty.",
+        "It helps you feel more in control of your workload and lowers stress."
+      ],
+      "category": "Time Management",
+      "tags": ["planning", "control", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I deal with distractions while studying?",
+      "response": [
+        "Find a quiet study space and limit access to distracting devices.",
+        "Use focus techniques like the Pomodoro method to stay on track."
+      ],
+      "category": "Time Management",
+      "tags": ["distractions", "study", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I use to-do lists to manage my workload?",
+      "response": [
+        "Write down all tasks and check them off as you complete them.",
+        "A to-do list keeps you organized and reduces anxiety about forgetting tasks."
+      ],
+      "category": "Time Management",
+      "tags": ["to-do list", "organization", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I break down big projects to reduce stress?",
+      "response": [
+        "Divide the project into small, manageable tasks.",
+        "Focus on completing one task at a time to avoid feeling overwhelmed."
+      ],
+      "category": "Time Management",
+      "tags": ["big projects", "break down", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does planning my week help with anxiety?",
+      "response": [
+        "Weekly planning gives you a clear overview of tasks and reduces last-minute stress.",
+        "It helps balance study time and relaxation, lowering overall anxiety."
+      ],
+      "category": "Time Management",
+      "tags": ["weekly planning", "anxiety", "balance"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I set achievable goals for my studies?",
+      "response": [
+        "Set small, clear, and realistic goals for each study session.",
+        "Celebrate small wins to build confidence and reduce anxiety."
+      ],
+      "category": "Time Management",
+      "tags": ["goals", "achievable", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does self-discipline play in time management?",
+      "response": [
+        "Self-discipline helps you stick to your schedule and avoid procrastination.",
+        "It leads to better focus and lower anxiety about unfinished work."
+      ],
+      "category": "Time Management",
+      "tags": ["self-discipline", "focus", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I overcome presentation anxiety?",
+      "response": [
+        "Practice your presentation several times to build confidence.",
+        "Deep breathing and positive visualization can calm your nerves."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["presentation", "performance", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can help me manage stage fright?",
+      "response": [
+        "Rehearse in front of a small group first and gradually increase your audience size.",
+        "Remember that mistakes are okay and focus on your message."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["stage fright", "anxiety", "confidence"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I deal with nervousness before speaking in class?",
+      "response": [
+        "Take a few deep breaths and remind yourself that everyone is supportive.",
+        "Prepare well and start with small contributions to build your confidence."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["nervousness", "class", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is performance anxiety in presentations?",
+      "response": [
+        "It is the fear of speaking or performing in front of others that causes stress.",
+        "Symptoms include shaking, sweating, and racing thoughts before a presentation."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["performance", "presentation", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I practice to reduce presentation anxiety?",
+      "response": [
+        "Practice your speech in front of a mirror or with friends.",
+        "Record yourself and review your performance to improve over time."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["practice", "presentation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I use visualization for presentation success?",
+      "response": [
+        "Imagine yourself speaking confidently and engaging your audience.",
+        "Visualization can reduce anxiety and boost your self-assurance before speaking."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["visualization", "confidence", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What quick relaxation technique works before presentations?",
+      "response": [
+        "Try box breathing for a minute to calm your nerves.",
+        "Focus on slow, deep breaths to center yourself."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["relaxation", "technique", "presentation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can positive affirmations boost my presentation performance?",
+      "response": [
+        "Repeat phrases like 'I am prepared and confident' to build self-trust.",
+        "Affirmations help replace negative thoughts with positive energy."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["affirmations", "positive", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome fear of being judged during presentations?",
+      "response": [
+        "Remember that everyone makes mistakes and focus on delivering your message.",
+        "Concentrate on connecting with your audience instead of their judgments."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["judgment", "fear", "presentation"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I prepare for unexpected questions during presentations?",
+      "response": [
+        "Practice answering potential questions and maintain a calm demeanor.",
+        "If you don’t know an answer, it's okay to say you'll follow up later."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["unexpected questions", "preparation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if I feel nervous during my presentation?",
+      "response": [
+        "Pause, take a deep breath, and continue at your own pace.",
+        "A brief pause can help you regain composure and refocus."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["nervous", "pause", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does practicing in front of peers help with presentation anxiety?",
+      "response": [
+        "It familiarizes you with speaking in front of an audience and builds confidence.",
+        "Feedback from peers can help you improve and reduce anxiety over time."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["peers", "practice", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage performance anxiety during class presentations?",
+      "response": [
+        "Focus on your preparation and try to relax before your turn to speak.",
+        "Remind yourself that your classmates are supportive and understanding."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["performance", "class presentation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I improve my public speaking skills to reduce anxiety?",
+      "response": [
+        "Join a public speaking club or take small steps by speaking in class.",
+        "Practice regularly and seek constructive feedback to boost your skills."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["public speaking", "skills", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What should I do if I forget my lines during a presentation?",
+      "response": [
+        "Take a pause, breathe, and try to recall your next point.",
+        "It’s normal to forget sometimes; just continue confidently."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["forgetting", "presentation", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does rehearsal reduce performance anxiety?",
+      "response": [
+        "Rehearsing builds familiarity and reduces fear of the unknown.",
+        "Practice makes you more confident and less anxious about your performance."
+      ],
+      "category": "Presentation Anxiety",
+      "tags": ["rehearsal", "confidence", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How does lack of sleep affect my anxiety?",
+      "response": [
+        "Poor sleep makes it harder to concentrate and increases stress.",
+        "It can worsen anxiety and make you feel more overwhelmed."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["sleep", "anxiety", "study"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What are quick tips for better sleep during exam periods?",
+      "response": [
+        "Maintain a regular sleep schedule and avoid screens before bed.",
+        "A relaxing bedtime routine can improve your sleep quality."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["sleep tips", "exam", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I create a calm study environment?",
+      "response": [
+        "Choose a quiet space, limit distractions, and keep your study area tidy.",
+        "A calm environment helps reduce anxiety and improves focus."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["study environment", "calm", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does stress affect my ability to study?",
+      "response": [
+        "Stress can make it hard to concentrate and remember information.",
+        "Reducing stress improves your focus and study efficiency."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["stress", "study", "anxiety"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What can I do if I'm too anxious to study?",
+      "response": [
+        "Take a short break and practice deep breathing.",
+        "Try a brief mindfulness exercise before returning to your studies."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["too anxious", "study", "break"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How important is sleep for reducing study anxiety?",
+      "response": [
+        "Good sleep is essential; it helps you retain information and manage stress.",
+        "A regular sleep routine can significantly reduce your study anxiety."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["sleep", "study", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I build a study routine that lowers anxiety?",
+      "response": [
+        "Create a consistent schedule with designated study times and breaks.",
+        "A balanced routine helps reduce stress and improves productivity."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["routine", "study", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can help me relax before studying?",
+      "response": [
+        "Try a brief meditation or listen to soft music to calm your mind.",
+        "A few deep breaths can also help you relax and focus better."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["relax", "before studying", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does anxiety affect my ability to learn?",
+      "response": [
+        "Anxiety can block concentration and hinder memory retention.",
+        "This makes learning and absorbing new information more difficult."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["learning", "anxiety", "study"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "What simple routine can improve my study focus?",
+      "response": [
+        "Set a consistent study time, take breaks, and ensure you get enough sleep.",
+        "A predictable routine helps reduce anxiety and boosts focus."
+      ],
+      "category": "Sleep & Study Anxiety",
+      "tags": ["routine", "focus", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I deal with parental pressure about grades?",
+      "response": [
+        "Talk openly with your parents about your challenges and set realistic goals.",
+        "Remember that your worth is not determined solely by your grades."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["parental pressure", "grades", "family"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if my family expects perfection?",
+      "response": [
+        "Explain that perfection is unrealistic and focus on progress instead.",
+        "Seek support from a counselor if the pressure becomes overwhelming."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["perfection", "family", "pressure"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does family stress contribute to my anxiety?",
+      "response": [
+        "Family stress can add extra pressure and make you feel overwhelmed.",
+        "It is important to communicate your feelings and seek support when needed."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["family stress", "anxiety", "support"],
+      "sentiment": "negative"
+    },
+    {
+      "question": "How can I set boundaries with my parents about school?",
+      "response": [
+        "Politely explain your needs and the importance of space for studying.",
+        "Clear boundaries can reduce stress and help manage your anxiety."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["boundaries", "parents", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if my parents don't understand my anxiety?",
+      "response": [
+        "Try to educate them about anxiety using simple examples.",
+        "Consider seeking help from a school counselor to mediate the conversation."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["understanding", "parents", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I cope with criticism from my family?",
+      "response": [
+        "Focus on constructive feedback and don't take every comment personally.",
+        "Remember that you are doing your best and seek support from friends or counselors."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["criticism", "family", "coping"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I reduce anxiety from family expectations?",
+      "response": [
+        "Set your own goals and remember that it's okay to have different priorities.",
+        "Discuss your feelings with a trusted friend or counselor for extra support."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["expectations", "family", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if I feel too pressured by family discussions about my future?",
+      "response": [
+        "Take time to reflect on your own interests and talk with a mentor.",
+        "It’s important to make decisions that feel right for you, not just to please others."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["future", "pressure", "family"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I maintain my mental health amid family expectations?",
+      "response": [
+        "Engage in regular self-care and set aside time for activities you enjoy.",
+        "Balance family expectations with your personal needs by setting boundaries."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["mental health", "family", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I talk to my parents about my anxiety?",
+      "response": [
+        "Choose a calm time to explain how you feel and what you need.",
+        "Being honest about your anxiety can help them understand and support you better."
+      ],
+      "category": "Parental Pressure",
+      "tags": ["communication", "parents", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "How do I deal with anxiety about my future career?",
+      "response": [
+        "Focus on building skills and taking small steps toward your goals.",
+        "Remember that many career paths have ups and downs, and planning helps ease worry."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["career", "future", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What causes career anxiety in students?",
+      "response": [
+        "Uncertainty about job prospects and high expectations often cause career anxiety.",
+        "Pressure to choose the right path can be overwhelming."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["causes", "career", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I plan my future without feeling anxious?",
+      "response": [
+        "Break your career goals into smaller, achievable steps.",
+        "Seek guidance from mentors or career counselors to ease your worries."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["planning", "career", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What steps can reduce my fear of not succeeding in my career?",
+      "response": [
+        "Build a strong foundation with internships and projects.",
+        "Focus on learning and growing rather than perfection."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["fear", "succeed", "career"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does uncertainty about the future affect my anxiety?",
+      "response": [
+        "Uncertainty can make you worry about the unknown, increasing anxiety.",
+        "Creating a flexible plan helps you feel more secure about the future."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["uncertainty", "future", "anxiety"],
+      "sentiment": "neutral"
+    },
+    {
+      "question": "How do I choose a career path without stress?",
+      "response": [
+        "Research your options and try internships to see what fits you best.",
+        "Focus on your interests and strengths rather than external expectations."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["career choice", "stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if I fear I'll never find a good job?",
+      "response": [
+        "Remember that many factors influence job success; focus on building your skills.",
+        "Seek advice from career services to improve your job prospects."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["job prospects", "fear", "career"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I balance career planning with current studies?",
+      "response": [
+        "Set aside specific time for career planning while staying committed to your studies.",
+        "Both can be managed with good organization and time management."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["balance", "career planning", "studies"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I reduce anxiety about future financial stability?",
+      "response": [
+        "Educate yourself about budgeting and financial planning.",
+        "Seek guidance from career counselors to build a secure future."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["financial stability", "career", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What advice helps with career-related anxiety?",
+      "response": [
+        "Focus on small, achievable goals and celebrate progress along the way.",
+        "Remember that career growth is a journey with many learning opportunities."
+      ],
+      "category": "Future Career Anxiety",
+      "tags": ["advice", "career", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage anxiety about balancing school and personal life?",
+      "response": [
+        "Create a schedule that includes time for studies and leisure.",
+        "Stick to your plan and make time for self-care."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["balance", "personal life", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What if I feel overwhelmed by all my responsibilities?",
+      "response": [
+        "Prioritize your tasks and break them down into smaller parts.",
+        "Ask for help when needed and take regular breaks."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["overwhelmed", "responsibilities", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I stay motivated during stressful times?",
+      "response": [
+        "Set small goals and reward yourself when you achieve them.",
+        "Stay connected with supportive friends who boost your motivation."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["motivation", "stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome the feeling of being stuck?",
+      "response": [
+        "Identify one small step you can take and act on it.",
+        "Break free from the routine by trying something new."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["stuck", "overcome", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What is the best way to ask for help when I’m anxious?",
+      "response": [
+        "Talk to someone you trust and explain your feelings honestly.",
+        "Reaching out shows strength and can help reduce your anxiety."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["ask for help", "support", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I build resilience against daily stress?",
+      "response": [
+        "Practice self-care, set realistic goals, and maintain a healthy routine.",
+        "Developing resilience takes time, so be patient with yourself."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["resilience", "stress", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I overcome negative self-talk at school?",
+      "response": [
+        "Replace negative thoughts with positive affirmations.",
+        "Focus on your strengths and remind yourself of past successes."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["self-talk", "negativity", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What simple habit can help lower my daily anxiety?",
+      "response": [
+        "Spend five minutes each day meditating or doing deep breathing exercises.",
+        "Even small habits can make a big difference in reducing anxiety."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["habit", "daily", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I keep my study space stress-free?",
+      "response": [
+        "Keep your study area clean and organized.",
+        "Add a personal touch like a plant or photo to create a calm environment."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["study space", "stress-free", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I better manage unexpected challenges at school?",
+      "response": [
+        "Stay flexible and plan for contingencies.",
+        "Learn from each challenge and adjust your routine accordingly."
+      ],
+      "category": "Miscellaneous",
+      "tags": ["unexpected challenges", "management", "anxiety"],
+      "sentiment": "hopeful"
+    },
+  
+    {
+      "question": "What are some tips for reducing overall stress as a student?",
+      "response": [
+        "Combine regular exercise with a balanced diet and proper sleep.",
+        "Schedule breaks and pursue hobbies to maintain a balanced life."
+      ],
+      "category": "Additional Topics",
+      "tags": ["stress reduction", "tips", "student"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How does mindfulness help me stay focused on my studies?",
+      "response": [
+        "Mindfulness brings your attention to the present, reducing distracting thoughts.",
+        "It improves concentration and helps manage study-related anxiety."
+      ],
+      "category": "Additional Topics",
+      "tags": ["mindfulness", "focus", "studies"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What can I do if I feel anxious during online classes?",
+      "response": [
+        "Take a short break, stretch, and practice deep breathing.",
+        "Ensure you have a quiet space and proper setup for online learning."
+      ],
+      "category": "Additional Topics",
+      "tags": ["online classes", "anxiety", "tips"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I manage anxiety about balancing part-time work and studies?",
+      "response": [
+        "Plan a strict schedule and prioritize your tasks carefully.",
+        "Don't hesitate to ask for help if the workload becomes too heavy."
+      ],
+      "category": "Additional Topics",
+      "tags": ["part-time work", "balance", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What role does exercise play in relieving student anxiety?",
+      "response": [
+        "Exercise releases feel-good hormones that reduce stress and anxiety.",
+        "Even a short walk can help clear your mind and boost your mood."
+      ],
+      "category": "Additional Topics",
+      "tags": ["exercise", "stress relief", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I use music to manage my anxiety?",
+      "response": [
+        "Listening to calming music can lower your heart rate and ease your mind.",
+        "Create a playlist of songs that help you relax during stressful times."
+      ],
+      "category": "Additional Topics",
+      "tags": ["music", "anxiety", "stress relief"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What simple breathing exercises can reduce anxiety quickly?",
+      "response": [
+        "Try the 4-7-8 breathing technique: inhale for 4 seconds, hold for 7, and exhale for 8.",
+        "Repeat this cycle a few times to help lower anxiety."
+      ],
+      "category": "Additional Topics",
+      "tags": ["breathing", "technique", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How do I stay motivated during stressful study periods?",
+      "response": [
+        "Set small, achievable goals and reward yourself when you reach them.",
+        "Remind yourself of your long-term goals and the progress you've made."
+      ],
+      "category": "Additional Topics",
+      "tags": ["motivation", "study", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "How can I create a supportive routine to manage anxiety?",
+      "response": [
+        "Develop a daily routine that includes study time, exercise, and relaxation.",
+        "Consistency in your routine can lower anxiety and boost overall well-being."
+      ],
+      "category": "Additional Topics",
+      "tags": ["routine", "support", "anxiety"],
+      "sentiment": "hopeful"
+    },
+    {
+      "question": "What are quick tips to regain focus when anxiety hits?",
+      "response": [
+        "Take a brief break and do some stretching or deep breathing.",
+        "Refocus by writing down your next task and tackling it step by step."
+      ],
+      "category": "Additional Topics",
+      "tags": ["focus", "tips", "anxiety"],
+      "sentiment": "hopeful"
+    }
+  ]
+  

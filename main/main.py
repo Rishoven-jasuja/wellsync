@@ -1,4 +1,4 @@
-import os   #working
+import os
 import faiss
 import json
 import numpy as np
@@ -26,9 +26,9 @@ def load_dataset(data_folder="data"):
                     entries = json.load(f)
                     dataset.extend(entries)  # Merge all questions into one list
                     
-                    # Store intent for each question (fixing the error)
+                    # Store intent for each question
                     for entry in entries:
-                        intents[entry["question"]] = entry.get("intent", "unknown")  # Assign 'unknown' if missing
+                        intents[entry["question"]] = entry.get("intent", "unknown")
                 except json.JSONDecodeError:
                     print(f"Error: Could not parse {file_path}. Skipping.")
     
@@ -82,41 +82,29 @@ def infer_context(user_input):
         user_input = last_topic + " " + user_input  # Append last topic to new query
     return user_input
 
-# Chatbot function
-def chatbot():
+# Chatbot function for Flask
+def chatbot_response(user_input):
     global last_topic
-    print("Chatbot: Hi! How can I help you today? (Type 'exit' to quit)")
 
-    while True:
-        user_input = input("You: ").strip()
+    # Preprocess user input
+    user_input = preprocess(user_input)
 
-        if user_input.lower() == "exit":
-            print("Chatbot: Take care! Have a great day.")
-            break
+    # Check if input is vague
+    if len(user_input.split()) < 4:
+        user_input = infer_context(user_input)  # Add context
 
-        # Preprocess user input
-        user_input = preprocess(user_input)
+    # Retrieve response
+    response, matched_question = get_response(user_input)
 
-        # Check if input is vague
-        if len(user_input.split()) < 4:  # Example: "what can be its cause?"
-            user_input = infer_context(user_input)  # Add context
+    # If FAISS couldn't find a match, use fallback response
+    if response is None:
+        response = "I'm not sure. Can you clarify what you're asking about?"
+    else:
+        last_topic = matched_question  # Store matched question as last topic
 
-        # Retrieve response
-        response, matched_question = get_response(user_input)
+    # Store conversation memory (limit to last 5 interactions)
+    conversation_memory.append({"user": user_input, "bot": response})
+    if len(conversation_memory) > 5:
+        conversation_memory.pop(0)
 
-        # If FAISS couldn't find a match, use fallback response
-        if response is None:
-            response = "I'm not sure. Can you clarify what you're asking about?"
-        else:
-            last_topic = matched_question  # Store matched question as last topic
-
-        # Store conversation memory (limit to last 5 interactions)
-        conversation_memory.append({"user": user_input, "bot": response})
-        if len(conversation_memory) > 5:
-            conversation_memory.pop(0)
-
-        print(f"Chatbot: {response}")
-
-# Run chatbot
-if __name__ == "__main__":
-    chatbot()
+    return response  # Return response to Flask
