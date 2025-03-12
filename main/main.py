@@ -10,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 # Function to load dataset from multiple JSON files
-def load_dataset(data_folder="../data"):
+def load_dataset(data_folder="data"):
     dataset = []
     intents = {}  # Dictionary to store intents
     

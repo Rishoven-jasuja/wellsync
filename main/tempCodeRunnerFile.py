@@ -36,7 +36,7 @@ def load_dataset(data_folder="data"):
                     else:
                         print(f"Error: {file_path} does not contain a list. Skipping.")
                 except json.JSONDecodeError:
-                    print(f"Error: Could not parse {file_path}. Skipping.")
+                  print(f"Error: Could not parse {file_path}. Skipping.")
     
     return dataset, intents
 
@@ -72,6 +72,31 @@ def preprocess(text):
     text = text.lower().strip()
     text = re.sub(r"[^a-zA-Z0-9\s]", "", text)  # Remove special characters
     return text
+
+def chatbot_response(user_input):
+    global last_topic, last_question
+
+    # Preprocess user input
+    user_input = preprocess(user_input)
+
+    # Check if input is vague
+    if len(user_input.split()) < 4 or any(word in user_input.split() for word in ["its", "their", "them"]):
+        user_input = infer_context(user_input)  # Add context
+
+    # Retrieve response
+    response, matched_question = get_response(user_input)
+
+    # Store conversation memory (limit to last 5 interactions)
+    conversation_memory.append({"user": user_input, "bot": response})
+    if len(conversation_memory) > 5:
+        conversation_memory.pop(0)
+
+    if matched_question:
+        last_topic = matched_question  # Store matched question as last topic
+        last_question = user_input  # Store last full question
+
+    return response  # Return response instead of printing
+
 
 # Retrieve response from FAISS
 def get_response(user_input):
