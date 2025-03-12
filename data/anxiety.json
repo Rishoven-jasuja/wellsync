@@ -400,6 +400,7 @@
     "tags": ["health risks", "long-term effects"],
     "sentiment": "neutral"
   },
+
   {
     "question": "What is obsessive-compulsive disorder (OCD)?",
     "response": [
@@ -4844,6 +4845,7 @@
     "tags": ["genetic polymorphisms", "anxiety", "susceptibility"],
     "sentiment": "informative"
   },
+
   {
     "question": "What daily habits can help prevent anxiety?",
     "response": [
@@ -5044,6 +5046,7 @@
     "tags": ["planning", "organization", "anxiety prevention"],
     "sentiment": "hopeful"
   },
+
   {
     "question": "How do cultural beliefs shape perceptions of anxiety?",
     "response": [
@@ -5254,6 +5257,7 @@
     "tags": ["social implications", "untreated anxiety"],
     "sentiment": "negative"
   },
+
   {
     "question": "How does anxiety affect work performance?",
     "response": [
@@ -5756,6 +5760,7 @@
     "tags": ["cyberbullying", "anxiety", "online harassment"],
     "sentiment": "negative"
   },
+
   {
     "question": "What is the role of acupuncture in anxiety treatment?",
     "response": [
@@ -5916,6 +5921,7 @@
     "tags": ["yoga therapy", "integration", "anxiety"],
     "sentiment": "hopeful"
   },
+
   {
     "question": "How can I self-assess my anxiety levels effectively?",
     "response": [
@@ -6076,6 +6082,7 @@
     "tags": ["professional help", "anxiety", "assessment"],
     "sentiment": "neutral"
   },
+
   {
     "question": "How does mindfulness meditation reduce anxiety?",
     "response": [
@@ -6236,7 +6243,6 @@
     "tags": ["break cycle", "anxious thoughts", "techniques"],
     "sentiment": "hopeful"
   },
-
 
   {
     "question": "How does long-term anxiety affect cardiovascular health?",
@@ -6400,6 +6406,8 @@
   }
 ]
 ]
+
+
 
 
 
